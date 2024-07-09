@@ -17,6 +17,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 6, 2024 | [2582](https://leetcode.com/problems/pass-the-pillow) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2582) | 🟢 Easy |
 | July 7, 2024 | [1518](https://leetcode.com/problems/water-bottles) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1518) | 🟢 Easy |
 | July 8, 2024 | [1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1823) | 🟡 Medium |
+| July 9, 2024 | [1701](https://leetcode.com/problems/average-waiting-time) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1701) | 🟡 Medium |
 
 # Join our discussion!
 
