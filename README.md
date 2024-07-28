@@ -36,6 +36,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 25, 2024 | [912](https://leetcode.com/problems/sort-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/912) | 🟡 Medium |
 | July 26, 2024 | [1334](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1334) | 🟡 Medium |
 | July 27, 2024 | [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2976) | 🟡 Medium |
+| July 28, 2024 | [2045](https://leetcode.com/problems/second-minimum-time-to-reach-destination) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2045) | 🔴 Hard |
 
 # Join our discussion!
 
