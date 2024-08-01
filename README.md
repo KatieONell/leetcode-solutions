@@ -40,6 +40,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 29, 2024 | [1395](https://leetcode.com/problems/count-number-of-teams) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1395) | 🟡 Medium |
 | July 30, 2024 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1653) | 🟡 Medium |
 | July 31, 2024 | [1105](https://leetcode.com/problems/filling-bookcase-shelves) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1105) | 🟡 Medium |
+| August 1, 2024 | [2678](https://leetcode.com/problems/number-of-senior-citizens) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2678) | 🟢 Easy |
 
 # Join our discussion!
 
