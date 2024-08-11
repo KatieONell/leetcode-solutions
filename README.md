@@ -50,6 +50,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 8, 2024 | [885](https://leetcode.com/problems/spiral-matrix-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/885) | 🟡 Medium |
 | August 9, 2024 | [840](https://leetcode.com/problems/magic-squares-in-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/840) | 🟡 Medium |
 | August 10, 2024 | [959](https://leetcode.com/problems/regions-cut-by-slashes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/959) | 🟡 Medium |
+| August 11, 2024 | [1568](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1568) | 🔴 Hard |
 
 # Join our discussion!
 
