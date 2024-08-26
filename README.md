@@ -65,6 +65,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 23, 2024 | [592](https://leetcode.com/problems/fraction-addition-and-subtraction) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/592) | 🟡 Medium |
 | August 24, 2024 | [564](https://leetcode.com/problems/find-the-closest-palindrome) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/564) | 🔴 Hard |
 | August 25, 2024 | [145](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/145) | 🟢 Easy |
+| August 26, 2024 | [590](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/590) | 🟢 Easy |
 
 # Join our discussion!
 
