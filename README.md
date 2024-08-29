@@ -68,6 +68,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 26, 2024 | [590](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/590) | 🟢 Easy |
 | August 27, 2024 | [1514](https://leetcode.com/problems/path-with-maximum-probability) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1514) | 🟡 Medium |
 | August 28, 2024 | [1905](https://leetcode.com/problems/count-sub-islands) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1905) | 🟡 Medium |
+| August 29, 2024 | [947](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/947) | 🟡 Medium |
 
 # Join our discussion!
 
