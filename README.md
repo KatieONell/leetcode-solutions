@@ -82,6 +82,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 9, 2024 | [2326](https://leetcode.com/problems/spiral-matrix-iv) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2326) | 🟡 Medium |
 | September 10, 2024 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2807) | 🟡 Medium |
 | September 11, 2024 | [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2220) | 🟢 Easy |
+| September 12, 2024 | [1684](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1684) | 🟢 Easy |
 
 # Join our discussion!
 
