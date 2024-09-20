@@ -90,6 +90,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 17, 2024 | [884](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/884) | 🟢 Easy |
 | September 18, 2024 | [179](https://leetcode.com/problems/largest-number) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/179) | 🟡 Medium |
 | September 19, 2024 | [241](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/241) | 🟡 Medium |
+| September 20, 2024 | [214](https://leetcode.com/problems/shortest-palindrome) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/214) | 🔴 Hard |
 
 # Join our discussion!
 
