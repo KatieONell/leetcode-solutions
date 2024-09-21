@@ -91,6 +91,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 18, 2024 | [179](https://leetcode.com/problems/largest-number) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/179) | 🟡 Medium |
 | September 19, 2024 | [241](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/241) | 🟡 Medium |
 | September 20, 2024 | [214](https://leetcode.com/problems/shortest-palindrome) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/214) | 🔴 Hard |
+| September 21, 2024 | [386](https://leetcode.com/problems/lexicographical-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/386) | 🟡 Medium |
 
 # Join our discussion!
 
