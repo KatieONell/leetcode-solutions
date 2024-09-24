@@ -94,6 +94,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 21, 2024 | [386](https://leetcode.com/problems/lexicographical-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/386) | 🟡 Medium |
 | September 22, 2024 | [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/440) | 🔴 Hard |
 | September 23, 2024 | [2707](https://leetcode.com/problems/extra-characters-in-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2707) | 🟡 Medium |
+| September 24, 2024 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3043) | 🟡 Medium |
 
 # Join our discussion!
 
