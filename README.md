@@ -96,6 +96,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 23, 2024 | [2707](https://leetcode.com/problems/extra-characters-in-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2707) | 🟡 Medium |
 | September 24, 2024 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3043) | 🟡 Medium |
 | September 25, 2024 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2416) | 🔴 Hard |
+| September 26, 2024 | [729](https://leetcode.com/problems/my-calendar-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/729) | 🟡 Medium |
 
 # Join our discussion!
 
