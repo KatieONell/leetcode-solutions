@@ -98,6 +98,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 25, 2024 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2416) | 🔴 Hard |
 | September 26, 2024 | [729](https://leetcode.com/problems/my-calendar-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/729) | 🟡 Medium |
 | September 27, 2024 | [731](https://leetcode.com/problems/my-calendar-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/731) | 🟡 Medium |
+| September 28, 2024 | [641](https://leetcode.com/problems/design-circular-deque) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/641) | 🟡 Medium |
 
 # Join our discussion!
 
