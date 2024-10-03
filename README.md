@@ -103,6 +103,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 30, 2024 | [1381](https://leetcode.com/problems/design-a-stack-with-increment-operation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1381) | 🟡 Medium |
 | October 1, 2024 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1497) | 🟡 Medium |
 | October 2, 2024 | [1331](https://leetcode.com/problems/rank-transform-of-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1331) | 🟢 Easy |
+| October 3, 2024 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1590) | 🟡 Medium |
 
 # Join our discussion!
 
