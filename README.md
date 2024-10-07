@@ -107,6 +107,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 4, 2024 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2491) | 🟡 Medium |
 | October 5, 2024 | [567](https://leetcode.com/problems/permutation-in-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/567) | 🟡 Medium |
 | October 6, 2024 | [1813](https://leetcode.com/problems/sentence-similarity-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1813) | 🟡 Medium |
+| October 7, 2024 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2696) | 🟢 Easy |
 
 # Join our discussion!
 
