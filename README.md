@@ -110,6 +110,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 7, 2024 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2696) | 🟢 Easy |
 | October 8, 2024 | [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1963) | 🟡 Medium |
 | October 9, 2024 | [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/921) | 🟡 Medium |
+| October 10, 2024 | [962](https://leetcode.com/problems/maximum-width-ramp) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/962) | 🟡 Medium |
 
 # Join our discussion!
 
