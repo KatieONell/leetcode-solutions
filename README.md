@@ -112,6 +112,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 9, 2024 | [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/921) | 🟡 Medium |
 | October 10, 2024 | [962](https://leetcode.com/problems/maximum-width-ramp) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/962) | 🟡 Medium |
 | October 11, 2024 | [1942](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1942) | 🟡 Medium |
+| October 12, 2024 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2406) | 🟡 Medium |
 
 # Join our discussion!
 
