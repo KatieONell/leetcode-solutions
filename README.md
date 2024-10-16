@@ -116,6 +116,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 13, 2024 | [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/632) | 🔴 Hard |
 | October 14, 2024 | [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2530) | 🟡 Medium |
 | October 15, 2024 | [2938](https://leetcode.com/problems/separate-black-and-white-balls) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2938) | 🟡 Medium |
+| October 16, 2024 | [1405](https://leetcode.com/problems/longest-happy-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1405) | 🟡 Medium |
 
 # Join our discussion!
 
