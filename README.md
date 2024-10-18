@@ -118,6 +118,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 15, 2024 | [2938](https://leetcode.com/problems/separate-black-and-white-balls) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2938) | 🟡 Medium |
 | October 16, 2024 | [1405](https://leetcode.com/problems/longest-happy-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1405) | 🟡 Medium |
 | October 17, 2024 | [670](https://leetcode.com/problems/maximum-swap) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/670) | 🟡 Medium |
+| October 18, 2024 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2044) | 🟡 Medium |
 
 # Join our discussion!
 
