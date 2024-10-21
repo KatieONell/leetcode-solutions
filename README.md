@@ -121,6 +121,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 18, 2024 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2044) | 🟡 Medium |
 | October 19, 2024 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1545) | 🟡 Medium |
 | October 20, 2024 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1106) | 🔴 Hard |
+| October 21, 2024 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1593) | 🟡 Medium |
 
 # Join our discussion!
 
