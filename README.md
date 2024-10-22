@@ -122,6 +122,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 19, 2024 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1545) | 🟡 Medium |
 | October 20, 2024 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1106) | 🔴 Hard |
 | October 21, 2024 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1593) | 🟡 Medium |
+| October 22, 2024 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2583) | 🟡 Medium |
 
 # Join our discussion!
 
