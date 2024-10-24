@@ -124,6 +124,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 21, 2024 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1593) | 🟡 Medium |
 | October 22, 2024 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2583) | 🟡 Medium |
 | October 23, 2024 | [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2641) | 🟡 Medium |
+| October 24, 2024 | [951](https://leetcode.com/problems/flip-equivalent-binary-trees) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/951) | 🟡 Medium |
 
 # Join our discussion!
 
