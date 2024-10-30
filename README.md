@@ -130,6 +130,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 27, 2024 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1277) | 🟡 Medium |
 | October 28, 2024 | [2501](https://leetcode.com/problems/longest-square-streak-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2501) | 🟡 Medium |
 | October 29, 2024 | [2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2684) | 🟡 Medium |
+| October 30, 2024 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1671) | 🔴 Hard |
 
 # Join our discussion!
 
