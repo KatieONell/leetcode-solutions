@@ -132,6 +132,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 29, 2024 | [2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2684) | 🟡 Medium |
 | October 30, 2024 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1671) | 🔴 Hard |
 | October 31, 2024 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2463) | 🔴 Hard |
+| November 1, 2024 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1957) | 🟢 Easy |
 
 # Join our discussion!
 
