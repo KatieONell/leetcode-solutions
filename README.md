@@ -135,6 +135,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 1, 2024 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1957) | 🟢 Easy |
 | November 2, 2024 | [2490](https://leetcode.com/problems/circular-sentence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2490) | 🟢 Easy |
 | November 3, 2024 | [796](https://leetcode.com/problems/rotate-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/796) | 🟢 Easy |
+| November 4, 2024 | [3163](https://leetcode.com/problems/string-compression-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3163) | 🟡 Medium |
 
 # Join our discussion!
 
