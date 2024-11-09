@@ -140,6 +140,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 6, 2024 | [3011](https://leetcode.com/problems/find-if-array-can-be-sorted) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3011) | 🟡 Medium |
 | November 7, 2024 | [2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2275) | 🟡 Medium |
 | November 8, 2024 | [1829](https://leetcode.com/problems/maximum-xor-for-each-query) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1829) | 🟡 Medium |
+| November 9, 2024 | [3133](https://leetcode.com/problems/minimum-array-end) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3133) | 🟡 Medium |
 
 # Join our discussion!
 
