@@ -143,6 +143,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 9, 2024 | [3133](https://leetcode.com/problems/minimum-array-end) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3133) | 🟡 Medium |
 | November 10, 2024 | [3097](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3097) | 🟡 Medium |
 | November 11, 2024 | [2601](https://leetcode.com/problems/prime-subtraction-operation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2601) | 🟡 Medium |
+| November 12, 2024 | [2070](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2070) | 🟡 Medium |
 
 # Join our discussion!
 
