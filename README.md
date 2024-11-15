@@ -146,6 +146,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 12, 2024 | [2070](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2070) | 🟡 Medium |
 | November 13, 2024 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2563) | 🟡 Medium |
 | November 14, 2024 | [2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2064) | 🟡 Medium |
+| November 15, 2024 | [1574](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1574) | 🟡 Medium |
 
 # Join our discussion!
 
