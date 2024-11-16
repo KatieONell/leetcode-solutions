@@ -147,6 +147,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 13, 2024 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2563) | 🟡 Medium |
 | November 14, 2024 | [2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2064) | 🟡 Medium |
 | November 15, 2024 | [1574](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1574) | 🟡 Medium |
+| November 16, 2024 | [3254](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3254) | 🟡 Medium |
 
 # Join our discussion!
 
