@@ -153,6 +153,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 19, 2024 | [2461](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2461) | 🟡 Medium |
 | November 20, 2024 | [2516](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2516) | 🟡 Medium |
 | November 21, 2024 | [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2257) | 🟡 Medium |
+| November 22, 2024 | [1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1072) | 🟡 Medium |
 
 # Join our discussion!
 
