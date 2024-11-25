@@ -156,6 +156,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 22, 2024 | [1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1072) | 🟡 Medium |
 | November 23, 2024 | [1861](https://leetcode.com/problems/rotating-the-box) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1861) | 🟡 Medium |
 | November 24, 2024 | [1975](https://leetcode.com/problems/maximum-matrix-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1975) | 🟡 Medium |
+| November 25, 2024 | [773](https://leetcode.com/problems/sliding-puzzle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/773) | 🔴 Hard |
 
 # Join our discussion!
 
