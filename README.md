@@ -159,6 +159,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 25, 2024 | [773](https://leetcode.com/problems/sliding-puzzle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/773) | 🔴 Hard |
 | November 26, 2024 | [2924](https://leetcode.com/problems/find-champion-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2924) | 🟡 Medium |
 | November 27, 2024 | [3243](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3243) | 🟡 Medium |
+| November 28, 2024 | [2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2290) | 🔴 Hard |
 
 # Join our discussion!
 
