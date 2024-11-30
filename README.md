@@ -161,6 +161,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 27, 2024 | [3243](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3243) | 🟡 Medium |
 | November 28, 2024 | [2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2290) | 🔴 Hard |
 | November 29, 2024 | [2577](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2577) | 🔴 Hard |
+| November 30, 2024 | [2097](https://leetcode.com/problems/valid-arrangement-of-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2097) | 🔴 Hard |
 
 # Join our discussion!
 
