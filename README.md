@@ -165,6 +165,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 1, 2024 | [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1346) | 🟢 Easy |
 | December 2, 2024 | [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1455) | 🟢 Easy |
 | December 3, 2024 | [2109](https://leetcode.com/problems/adding-spaces-to-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2109) | 🟡 Medium |
+| December 4, 2024 | [2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2825) | 🟡 Medium |
 
 # Join our discussion!
 
