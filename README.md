@@ -167,6 +167,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 3, 2024 | [2109](https://leetcode.com/problems/adding-spaces-to-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2109) | 🟡 Medium |
 | December 4, 2024 | [2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2825) | 🟡 Medium |
 | December 5, 2024 | [2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2337) | 🟡 Medium |
+| December 6, 2024 | [2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2554) | 🟡 Medium |
 
 # Join our discussion!
 
