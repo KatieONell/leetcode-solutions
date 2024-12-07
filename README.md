@@ -168,6 +168,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 4, 2024 | [2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2825) | 🟡 Medium |
 | December 5, 2024 | [2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2337) | 🟡 Medium |
 | December 6, 2024 | [2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2554) | 🟡 Medium |
+| December 7, 2024 | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1760) | 🟡 Medium |
 
 # Join our discussion!
 
