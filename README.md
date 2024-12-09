@@ -170,6 +170,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 6, 2024 | [2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2554) | 🟡 Medium |
 | December 7, 2024 | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1760) | 🟡 Medium |
 | December 8, 2024 | [2054](https://leetcode.com/problems/two-best-non-overlapping-events) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2054) | 🟡 Medium |
+| December 9, 2024 | [3152](https://leetcode.com/problems/special-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3152) | 🟡 Medium |
 
 # Join our discussion!
 
