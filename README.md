@@ -171,6 +171,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 7, 2024 | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1760) | 🟡 Medium |
 | December 8, 2024 | [2054](https://leetcode.com/problems/two-best-non-overlapping-events) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2054) | 🟡 Medium |
 | December 9, 2024 | [3152](https://leetcode.com/problems/special-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3152) | 🟡 Medium |
+| December 10, 2024 | [2981](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2981) | 🟡 Medium |
 
 # Join our discussion!
 
