@@ -172,6 +172,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 8, 2024 | [2054](https://leetcode.com/problems/two-best-non-overlapping-events) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2054) | 🟡 Medium |
 | December 9, 2024 | [3152](https://leetcode.com/problems/special-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3152) | 🟡 Medium |
 | December 10, 2024 | [2981](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2981) | 🟡 Medium |
+| December 11, 2024 | [2779](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2779) | 🟡 Medium |
 
 # Join our discussion!
 
