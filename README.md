@@ -178,6 +178,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 14, 2024 | [2762](https://leetcode.com/problems/continuous-subarrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2762) | 🟡 Medium |
 | December 15, 2024 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1792) | 🟡 Medium |
 | December 16, 2024 | [3264](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3264) | 🟢 Easy |
+| December 17, 2024 | [2182](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2182) | 🟡 Medium |
 
 # Join our discussion!
 
