@@ -181,6 +181,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 17, 2024 | [2182](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2182) | 🟡 Medium |
 | December 18, 2024 | [1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1475) | 🟢 Easy |
 | December 19, 2024 | [769](https://leetcode.com/problems/max-chunks-to-make-sorted) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/769) | 🟡 Medium |
+| December 20, 2024 | [2415](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2415) | 🟡 Medium |
 
 # Join our discussion!
 
