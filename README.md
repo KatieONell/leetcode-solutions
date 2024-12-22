@@ -183,6 +183,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 19, 2024 | [769](https://leetcode.com/problems/max-chunks-to-make-sorted) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/769) | 🟡 Medium |
 | December 20, 2024 | [2415](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2415) | 🟡 Medium |
 | December 21, 2024 | [2872](https://leetcode.com/problems/maximum-number-of-k-divisible-components) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2872) | 🔴 Hard |
+| December 22, 2024 | [2940](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2940) | 🔴 Hard |
 
 # Join our discussion!
 
