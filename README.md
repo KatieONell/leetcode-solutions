@@ -187,6 +187,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 23, 2024 | [2471](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2471) | 🟡 Medium |
 | December 24, 2024 | [3203](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3203) | 🔴 Hard |
 | December 25, 2024 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/515) | 🟡 Medium |
+| December 26, 2024 | [494](https://leetcode.com/problems/target-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/494) | 🟡 Medium |
 
 # Join our discussion!
 
