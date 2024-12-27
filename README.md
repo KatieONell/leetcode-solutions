@@ -188,6 +188,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 24, 2024 | [3203](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3203) | 🔴 Hard |
 | December 25, 2024 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/515) | 🟡 Medium |
 | December 26, 2024 | [494](https://leetcode.com/problems/target-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/494) | 🟡 Medium |
+| December 27, 2024 | [1014](https://leetcode.com/problems/best-sightseeing-pair) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1014) | 🟡 Medium |
 
 # Join our discussion!
 
