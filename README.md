@@ -191,6 +191,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 27, 2024 | [1014](https://leetcode.com/problems/best-sightseeing-pair) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1014) | 🟡 Medium |
 | December 28, 2024 | [689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/689) | 🔴 Hard |
 | December 29, 2024 | [1639](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1639) | 🔴 Hard |
+| December 30, 2024 | [2466](https://leetcode.com/problems/count-ways-to-build-good-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2466) | 🟡 Medium |
 
 # Join our discussion!
 
