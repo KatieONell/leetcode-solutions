@@ -195,6 +195,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 31, 2024 | [983](https://leetcode.com/problems/minimum-cost-for-tickets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/983) | 🟡 Medium |
 | January 1, 2025 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1422) | 🟢 Easy |
 | January 2, 2025 | [2559](https://leetcode.com/problems/count-vowel-strings-in-ranges) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2559) | 🟡 Medium |
+| January 3, 2025 | [2270](https://leetcode.com/problems/number-of-ways-to-split-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2270) | 🟡 Medium |
 
 # Join our discussion!
 
