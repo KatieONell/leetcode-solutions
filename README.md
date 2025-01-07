@@ -199,6 +199,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 4, 2025 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1930) | 🟡 Medium |
 | January 5, 2025 | [2381](https://leetcode.com/problems/shifting-letters-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2381) | 🟡 Medium |
 | January 6, 2025 | [1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1769) | 🟡 Medium |
+| January 7, 2025 | [1408](https://leetcode.com/problems/string-matching-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1408) | 🟢 Easy |
 
 # Join our discussion!
 
