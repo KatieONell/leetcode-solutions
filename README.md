@@ -203,6 +203,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 8, 2025 | [3042](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3042) | 🟢 Easy |
 | January 9, 2025 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2185) | 🟢 Easy |
 | January 10, 2025 | [916](https://leetcode.com/problems/word-subsets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/916) | 🟡 Medium |
+| January 11, 2025 | [1400](https://leetcode.com/problems/construct-k-palindrome-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1400) | 🟡 Medium |
 
 # Join our discussion!
 
