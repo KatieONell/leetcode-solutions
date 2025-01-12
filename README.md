@@ -204,6 +204,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 9, 2025 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2185) | 🟢 Easy |
 | January 10, 2025 | [916](https://leetcode.com/problems/word-subsets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/916) | 🟡 Medium |
 | January 11, 2025 | [1400](https://leetcode.com/problems/construct-k-palindrome-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1400) | 🟡 Medium |
+| January 12, 2025 | [2116](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2116) | 🟡 Medium |
 
 # Join our discussion!
 
