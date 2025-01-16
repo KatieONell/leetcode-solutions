@@ -208,6 +208,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 13, 2025 | [3223](https://leetcode.com/problems/minimum-length-of-string-after-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3223) | 🟡 Medium |
 | January 14, 2025 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2657) | 🟡 Medium |
 | January 15, 2025 | [2429](https://leetcode.com/problems/minimize-xor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2429) | 🟡 Medium |
+| January 16, 2025 | [2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2425) | 🟡 Medium |
 
 # Join our discussion!
 
