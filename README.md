@@ -210,6 +210,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 15, 2025 | [2429](https://leetcode.com/problems/minimize-xor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2429) | 🟡 Medium |
 | January 16, 2025 | [2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2425) | 🟡 Medium |
 | January 17, 2025 | [2683](https://leetcode.com/problems/neighboring-bitwise-xor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2683) | 🟡 Medium |
+| January 18, 2025 | [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1368) | 🔴 Hard |
 
 # Join our discussion!
 
