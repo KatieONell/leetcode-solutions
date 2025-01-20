@@ -212,6 +212,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 17, 2025 | [2683](https://leetcode.com/problems/neighboring-bitwise-xor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2683) | 🟡 Medium |
 | January 18, 2025 | [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1368) | 🔴 Hard |
 | January 19, 2025 | [407](https://leetcode.com/problems/trapping-rain-water-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/407) | 🔴 Hard |
+| January 20, 2025 | [2661](https://leetcode.com/problems/first-completely-painted-row-or-column) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2661) | 🟡 Medium |
 
 # Join our discussion!
 
