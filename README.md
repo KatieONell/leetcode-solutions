@@ -214,6 +214,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 19, 2025 | [407](https://leetcode.com/problems/trapping-rain-water-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/407) | 🔴 Hard |
 | January 20, 2025 | [2661](https://leetcode.com/problems/first-completely-painted-row-or-column) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2661) | 🟡 Medium |
 | January 21, 2025 | [2017](https://leetcode.com/problems/grid-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2017) | 🟡 Medium |
+| January 22, 2025 | [1765](https://leetcode.com/problems/map-of-highest-peak) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1765) | 🟡 Medium |
 
 # Join our discussion!
 
