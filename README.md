@@ -217,6 +217,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 22, 2025 | [1765](https://leetcode.com/problems/map-of-highest-peak) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1765) | 🟡 Medium |
 | January 23, 2025 | [1267](https://leetcode.com/problems/count-servers-that-communicate) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1267) | 🟡 Medium |
 | January 24, 2025 | [802](https://leetcode.com/problems/find-eventual-safe-states) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/802) | 🟡 Medium |
+| January 25, 2025 | [2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2948) | 🟡 Medium |
 
 # Join our discussion!
 
