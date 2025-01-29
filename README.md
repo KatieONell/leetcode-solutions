@@ -221,6 +221,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 26, 2025 | [2127](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2127) | 🔴 Hard |
 | January 27, 2025 | [1462](https://leetcode.com/problems/course-schedule-iv) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1462) | 🟡 Medium |
 | January 28, 2025 | [2658](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2658) | 🟡 Medium |
+| January 29, 2025 | [684](https://leetcode.com/problems/redundant-connection) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/684) | 🟡 Medium |
 
 # Join our discussion!
 
