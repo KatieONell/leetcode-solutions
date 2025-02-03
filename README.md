@@ -226,6 +226,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 31, 2025 | [827](https://leetcode.com/problems/making-a-large-island) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/827) | 🔴 Hard |
 | February 1, 2025 | [3151](https://leetcode.com/problems/special-array-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3151) | 🟢 Easy |
 | February 2, 2025 | [1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1752) | 🟢 Easy |
+| February 3, 2025 | [3105](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3105) | 🟢 Easy |
 
 # Join our discussion!
 
