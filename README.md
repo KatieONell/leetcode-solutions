@@ -230,6 +230,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 4, 2025 | [1800](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1800) | 🟢 Easy |
 | February 5, 2025 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1790) | 🟢 Easy |
 | February 6, 2025 | [1726](https://leetcode.com/problems/tuple-with-same-product) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1726) | 🟡 Medium |
+| February 7, 2025 | [3160](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3160) | 🟡 Medium |
 
 # Join our discussion!
 
