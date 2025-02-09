@@ -232,6 +232,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 6, 2025 | [1726](https://leetcode.com/problems/tuple-with-same-product) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1726) | 🟡 Medium |
 | February 7, 2025 | [3160](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3160) | 🟡 Medium |
 | February 8, 2025 | [2349](https://leetcode.com/problems/design-a-number-container-system) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2349) | 🟡 Medium |
+| February 9, 2025 | [2364](https://leetcode.com/problems/count-number-of-bad-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2364) | 🟡 Medium |
 
 # Join our discussion!
 
