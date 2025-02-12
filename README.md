@@ -235,6 +235,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 9, 2025 | [2364](https://leetcode.com/problems/count-number-of-bad-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2364) | 🟡 Medium |
 | February 10, 2025 | [3174](https://leetcode.com/problems/clear-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3174) | 🟢 Easy |
 | February 11, 2025 | [1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1910) | 🟡 Medium |
+| February 12, 2025 | [2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2342) | 🟡 Medium |
 
 # Join our discussion!
 
