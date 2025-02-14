@@ -237,6 +237,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 11, 2025 | [1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1910) | 🟡 Medium |
 | February 12, 2025 | [2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2342) | 🟡 Medium |
 | February 13, 2025 | [3066](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3066) | 🟡 Medium |
+| February 14, 2025 | [1352](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1352) | 🟡 Medium |
 
 # Join our discussion!
 
