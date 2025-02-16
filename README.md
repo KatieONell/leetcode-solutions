@@ -239,6 +239,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 13, 2025 | [3066](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3066) | 🟡 Medium |
 | February 14, 2025 | [1352](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1352) | 🟡 Medium |
 | February 15, 2025 | [2698](https://leetcode.com/problems/find-the-punishment-number-of-an-integer) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2698) | 🟡 Medium |
+| February 16, 2025 | [1718](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1718) | 🟡 Medium |
 
 # Join our discussion!
 
