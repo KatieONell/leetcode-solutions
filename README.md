@@ -242,6 +242,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 16, 2025 | [1718](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1718) | 🟡 Medium |
 | February 17, 2025 | [1079](https://leetcode.com/problems/letter-tile-possibilities) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1079) | 🟡 Medium |
 | February 18, 2025 | [2375](https://leetcode.com/problems/construct-smallest-number-from-di-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2375) | 🟡 Medium |
+| February 19, 2025 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1415) | 🟡 Medium |
 
 # Join our discussion!
 
