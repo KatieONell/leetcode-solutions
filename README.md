@@ -244,6 +244,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 18, 2025 | [2375](https://leetcode.com/problems/construct-smallest-number-from-di-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2375) | 🟡 Medium |
 | February 19, 2025 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1415) | 🟡 Medium |
 | February 20, 2025 | [1980](https://leetcode.com/problems/find-unique-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1980) | 🟡 Medium |
+| February 21, 2025 | [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1261) | 🟡 Medium |
 
 # Join our discussion!
 
