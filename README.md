@@ -245,6 +245,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 19, 2025 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1415) | 🟡 Medium |
 | February 20, 2025 | [1980](https://leetcode.com/problems/find-unique-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1980) | 🟡 Medium |
 | February 21, 2025 | [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1261) | 🟡 Medium |
+| February 22, 2025 | [1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1028) | 🔴 Hard |
 
 # Join our discussion!
 
