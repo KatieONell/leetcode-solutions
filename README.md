@@ -247,6 +247,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 21, 2025 | [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1261) | 🟡 Medium |
 | February 22, 2025 | [1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1028) | 🔴 Hard |
 | February 23, 2025 | [889](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/889) | 🟡 Medium |
+| February 24, 2025 | [2467](https://leetcode.com/problems/most-profitable-path-in-a-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2467) | 🟡 Medium |
 
 # Join our discussion!
 
