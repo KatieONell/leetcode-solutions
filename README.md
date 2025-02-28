@@ -251,6 +251,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 25, 2025 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1524) | 🟡 Medium |
 | February 26, 2025 | [1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1749) | 🟡 Medium |
 | February 27, 2025 | [873](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/873) | 🟡 Medium |
+| February 28, 2025 | [1092](https://leetcode.com/problems/shortest-common-supersequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1092) | 🔴 Hard |
 
 # Join our discussion!
 
