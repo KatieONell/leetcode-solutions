@@ -259,6 +259,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 5, 2025 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2579) | 🟡 Medium |
 | March 6, 2025 | [2965](https://leetcode.com/problems/find-missing-and-repeated-values) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2965) | 🟢 Easy |
 | March 7, 2025 | [2523](https://leetcode.com/problems/closest-prime-numbers-in-range) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2523) | 🟡 Medium |
+| March 8, 2025 | [2379](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2379) | 🟢 Easy |
 
 # Join our discussion!
 
