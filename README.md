@@ -263,6 +263,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 9, 2025 | [3208](https://leetcode.com/problems/alternating-groups-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3208) | 🟡 Medium |
 | March 10, 2025 | [3306](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3306) | 🟡 Medium |
 | March 11, 2025 | [1358](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1358) | 🟡 Medium |
+| March 12, 2025 | [2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2529) | 🟢 Easy |
 
 # Join our discussion!
 
