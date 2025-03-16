@@ -267,6 +267,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 13, 2025 | [3356](https://leetcode.com/problems/zero-array-transformation-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3356) | 🟡 Medium |
 | March 14, 2025 | [2226](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2226) | 🟡 Medium |
 | March 15, 2025 | [2560](https://leetcode.com/problems/house-robber-iv) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2560) | 🟡 Medium |
+| March 16, 2025 | [2594](https://leetcode.com/problems/minimum-time-to-repair-cars) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2594) | 🟡 Medium |
 
 # Join our discussion!
 
