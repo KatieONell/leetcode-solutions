@@ -269,6 +269,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 15, 2025 | [2560](https://leetcode.com/problems/house-robber-iv) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2560) | 🟡 Medium |
 | March 16, 2025 | [2594](https://leetcode.com/problems/minimum-time-to-repair-cars) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2594) | 🟡 Medium |
 | March 17, 2025 | [2206](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2206) | 🟢 Easy |
+| March 18, 2025 | [2401](https://leetcode.com/problems/longest-nice-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2401) | 🟡 Medium |
 
 # Join our discussion!
 
