@@ -271,6 +271,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 17, 2025 | [2206](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2206) | 🟢 Easy |
 | March 18, 2025 | [2401](https://leetcode.com/problems/longest-nice-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2401) | 🟡 Medium |
 | March 19, 2025 | [3191](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3191) | 🟡 Medium |
+| March 20, 2025 | [3108](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3108) | 🔴 Hard |
 
 # Join our discussion!
 
