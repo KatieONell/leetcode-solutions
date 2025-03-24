@@ -275,6 +275,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 21, 2025 | [2115](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2115) | 🟡 Medium |
 | March 22, 2025 | [2685](https://leetcode.com/problems/count-the-number-of-complete-components) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2685) | 🟡 Medium |
 | March 23, 2025 | [1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1976) | 🟡 Medium |
+| March 24, 2025 | [3169](https://leetcode.com/problems/count-days-without-meetings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3169) | 🟡 Medium |
 
 # Join our discussion!
 
