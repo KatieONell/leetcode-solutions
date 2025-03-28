@@ -279,6 +279,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 25, 2025 | [3394](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3394) | 🟡 Medium |
 | March 26, 2025 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2033) | 🟡 Medium |
 | March 27, 2025 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2780) | 🟡 Medium |
+| March 28, 2025 | [2503](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2503) | 🔴 Hard |
 
 # Join our discussion!
 
