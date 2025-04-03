@@ -285,6 +285,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 31, 2025 | [2551](https://leetcode.com/problems/put-marbles-in-bags) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2551) | 🔴 Hard |
 | April 1, 2025 | [2140](https://leetcode.com/problems/solving-questions-with-brainpower) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2140) | 🟡 Medium |
 | April 2, 2025 | [2873](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2873) | 🟢 Easy |
+| April 3, 2025 | [2874](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2874) | 🟡 Medium |
 
 # Join our discussion!
 
