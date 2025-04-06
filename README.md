@@ -288,6 +288,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 3, 2025 | [2874](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2874) | 🟡 Medium |
 | April 4, 2025 | [1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1123) | 🟡 Medium |
 | April 5, 2025 | [1863](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1863) | 🟢 Easy |
+| April 6, 2025 | [368](https://leetcode.com/problems/largest-divisible-subset) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/368) | 🟡 Medium |
 
 # Join our discussion!
 
