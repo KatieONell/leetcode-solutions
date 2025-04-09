@@ -291,6 +291,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 6, 2025 | [368](https://leetcode.com/problems/largest-divisible-subset) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/368) | 🟡 Medium |
 | April 7, 2025 | [416](https://leetcode.com/problems/partition-equal-subset-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/416) | 🟡 Medium |
 | April 8, 2025 | [3396](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3396) | 🟢 Easy |
+| April 9, 2025 | [3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3375) | 🟢 Easy |
 
 # Join our discussion!
 
