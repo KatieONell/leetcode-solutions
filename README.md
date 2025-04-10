@@ -292,6 +292,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 7, 2025 | [416](https://leetcode.com/problems/partition-equal-subset-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/416) | 🟡 Medium |
 | April 8, 2025 | [3396](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3396) | 🟢 Easy |
 | April 9, 2025 | [3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3375) | 🟢 Easy |
+| April 10, 2025 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2999) | 🔴 Hard |
 
 # Join our discussion!
 
