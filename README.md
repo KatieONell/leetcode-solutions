@@ -294,6 +294,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 9, 2025 | [3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3375) | 🟢 Easy |
 | April 10, 2025 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2999) | 🔴 Hard |
 | April 11, 2025 | [2843](https://leetcode.com/problems/count-symmetric-integers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2843) | 🟢 Easy |
+| April 12, 2025 | [3272](https://leetcode.com/problems/find-the-count-of-good-integers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3272) | 🔴 Hard |
 
 # Join our discussion!
 
