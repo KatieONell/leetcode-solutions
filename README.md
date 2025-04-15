@@ -297,6 +297,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 12, 2025 | [3272](https://leetcode.com/problems/find-the-count-of-good-integers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3272) | 🔴 Hard |
 | April 13, 2025 | [1922](https://leetcode.com/problems/count-good-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1922) | 🟡 Medium |
 | April 14, 2025 | [1534](https://leetcode.com/problems/count-good-triplets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1534) | 🟢 Easy |
+| April 15, 2025 | [2179](https://leetcode.com/problems/count-good-triplets-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2179) | 🔴 Hard |
 
 # Join our discussion!
 
