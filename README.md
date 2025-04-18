@@ -300,6 +300,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 15, 2025 | [2179](https://leetcode.com/problems/count-good-triplets-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2179) | 🔴 Hard |
 | April 16, 2025 | [2537](https://leetcode.com/problems/count-the-number-of-good-subarrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2537) | 🟡 Medium |
 | April 17, 2025 | [2176](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2176) | 🟢 Easy |
+| April 18, 2025 | [38](https://leetcode.com/problems/count-and-say) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/38) | 🟡 Medium |
 
 # Join our discussion!
 
