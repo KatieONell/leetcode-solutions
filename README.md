@@ -302,6 +302,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 17, 2025 | [2176](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2176) | 🟢 Easy |
 | April 18, 2025 | [38](https://leetcode.com/problems/count-and-say) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/38) | 🟡 Medium |
 | April 19, 2025 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2563) | 🟡 Medium |
+| April 20, 2025 | [781](https://leetcode.com/problems/rabbits-in-forest) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/781) | 🟡 Medium |
 
 # Join our discussion!
 
