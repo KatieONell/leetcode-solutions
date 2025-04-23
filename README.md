@@ -305,6 +305,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 20, 2025 | [781](https://leetcode.com/problems/rabbits-in-forest) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/781) | 🟡 Medium |
 | April 21, 2025 | [2145](https://leetcode.com/problems/count-the-hidden-sequences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2145) | 🟡 Medium |
 | April 22, 2025 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2338) | 🔴 Hard |
+| April 23, 2025 | [1399](https://leetcode.com/problems/count-largest-group) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1399) | 🟢 Easy |
 
 # Join our discussion!
 
