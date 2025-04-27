@@ -309,6 +309,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 24, 2025 | [2799](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2799) | 🟡 Medium |
 | April 25, 2025 | [2845](https://leetcode.com/problems/count-of-interesting-subarrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2845) | 🟡 Medium |
 | April 26, 2025 | [2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2444) | 🔴 Hard |
+| April 27, 2025 | [3392](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3392) | 🟢 Easy |
 
 # Join our discussion!
 
