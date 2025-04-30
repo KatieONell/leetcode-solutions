@@ -312,6 +312,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 27, 2025 | [3392](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3392) | 🟢 Easy |
 | April 28, 2025 | [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2302) | 🔴 Hard |
 | April 29, 2025 | [2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2962) | 🟡 Medium |
+| April 30, 2025 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1295) | 🟢 Easy |
 
 # Join our discussion!
 
