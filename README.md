@@ -316,6 +316,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 1, 2025 | [2071](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2071) | 🔴 Hard |
 | May 2, 2025 | [838](https://leetcode.com/problems/push-dominoes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/838) | 🟡 Medium |
 | May 3, 2025 | [1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1007) | 🟡 Medium |
+| May 4, 2025 | [1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1128) | 🟢 Easy |
 
 # Join our discussion!
 
