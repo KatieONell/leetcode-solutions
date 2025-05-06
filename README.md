@@ -318,6 +318,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 3, 2025 | [1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1007) | 🟡 Medium |
 | May 4, 2025 | [1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1128) | 🟢 Easy |
 | May 5, 2025 | [790](https://leetcode.com/problems/domino-and-tromino-tiling) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/790) | 🟡 Medium |
+| May 6, 2025 | [1920](https://leetcode.com/problems/build-array-from-permutation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1920) | 🟢 Easy |
 
 # Join our discussion!
 
