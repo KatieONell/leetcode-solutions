@@ -322,6 +322,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 7, 2025 | [3341](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3341) | 🟡 Medium |
 | May 8, 2025 | [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3342) | 🟡 Medium |
 | May 9, 2025 | [3343](https://leetcode.com/problems/count-number-of-balanced-permutations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3343) | 🔴 Hard |
+| May 10, 2025 | [2918](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2918) | 🟡 Medium |
 
 # Join our discussion!
 
