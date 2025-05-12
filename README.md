@@ -324,6 +324,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 9, 2025 | [3343](https://leetcode.com/problems/count-number-of-balanced-permutations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3343) | 🔴 Hard |
 | May 10, 2025 | [2918](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2918) | 🟡 Medium |
 | May 11, 2025 | [1550](https://leetcode.com/problems/three-consecutive-odds) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1550) | 🟢 Easy |
+| May 12, 2025 | [2094](https://leetcode.com/problems/finding-3-digit-even-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2094) | 🟢 Easy |
 
 # Join our discussion!
 
