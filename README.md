@@ -335,6 +335,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 20, 2025 | [3355](https://leetcode.com/problems/zero-array-transformation-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3355) | 🟡 Medium |
 | May 21, 2025 | [73](https://leetcode.com/problems/set-matrix-zeroes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/73) | 🟡 Medium |
 | May 22, 2025 | [3362](https://leetcode.com/problems/zero-array-transformation-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3362) | 🟡 Medium |
+| May 23, 2025 | [3068](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3068) | 🔴 Hard |
 
 # Join our discussion!
 
