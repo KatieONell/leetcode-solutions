@@ -337,6 +337,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 22, 2025 | [3362](https://leetcode.com/problems/zero-array-transformation-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3362) | 🟡 Medium |
 | May 23, 2025 | [3068](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3068) | 🔴 Hard |
 | May 24, 2025 | [2942](https://leetcode.com/problems/find-words-containing-character) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2942) | 🟢 Easy |
+| May 25, 2025 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2131) | 🟡 Medium |
 
 # Join our discussion!
 
