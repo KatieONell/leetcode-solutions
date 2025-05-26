@@ -338,6 +338,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 23, 2025 | [3068](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3068) | 🔴 Hard |
 | May 24, 2025 | [2942](https://leetcode.com/problems/find-words-containing-character) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2942) | 🟢 Easy |
 | May 25, 2025 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2131) | 🟡 Medium |
+| May 26, 2025 | [1857](https://leetcode.com/problems/largest-color-value-in-a-directed-graph) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1857) | 🔴 Hard |
 
 # Join our discussion!
 
