@@ -342,6 +342,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 27, 2025 | [2894](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2894) | 🟢 Easy |
 | May 28, 2025 | [3372](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3372) | 🟡 Medium |
 | May 29, 2025 | [3373](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3373) | 🔴 Hard |
+| May 30, 2025 | [2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2359) | 🟡 Medium |
 
 # Join our discussion!
 
