@@ -345,6 +345,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 30, 2025 | [2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2359) | 🟡 Medium |
 | May 31, 2025 | [909](https://leetcode.com/problems/snakes-and-ladders) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/909) | 🟡 Medium |
 | June 1, 2025 | [2929](https://leetcode.com/problems/distribute-candies-among-children-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2929) | 🟡 Medium |
+| June 2, 2025 | [135](https://leetcode.com/problems/candy) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/135) | 🔴 Hard |
 
 # Join our discussion!
 
