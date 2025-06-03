@@ -346,6 +346,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 31, 2025 | [909](https://leetcode.com/problems/snakes-and-ladders) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/909) | 🟡 Medium |
 | June 1, 2025 | [2929](https://leetcode.com/problems/distribute-candies-among-children-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2929) | 🟡 Medium |
 | June 2, 2025 | [135](https://leetcode.com/problems/candy) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/135) | 🔴 Hard |
+| June 3, 2025 | [1298](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1298) | 🔴 Hard |
 
 # Join our discussion!
 
