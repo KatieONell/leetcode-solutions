@@ -347,6 +347,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 1, 2025 | [2929](https://leetcode.com/problems/distribute-candies-among-children-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2929) | 🟡 Medium |
 | June 2, 2025 | [135](https://leetcode.com/problems/candy) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/135) | 🔴 Hard |
 | June 3, 2025 | [1298](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1298) | 🔴 Hard |
+| June 4, 2025 | [3403](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3403) | 🟡 Medium |
 
 # Join our discussion!
 
