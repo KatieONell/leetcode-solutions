@@ -352,6 +352,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 6, 2025 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2434) | 🟡 Medium |
 | June 7, 2025 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3170) | 🟡 Medium |
 | June 8, 2025 | [386](https://leetcode.com/problems/lexicographical-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/386) | 🟡 Medium |
+| June 9, 2025 | [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/440) | 🔴 Hard |
 
 # Join our discussion!
 
