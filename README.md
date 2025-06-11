@@ -354,6 +354,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 8, 2025 | [386](https://leetcode.com/problems/lexicographical-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/386) | 🟡 Medium |
 | June 9, 2025 | [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/440) | 🔴 Hard |
 | June 10, 2025 | [3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3442) | 🟢 Easy |
+| June 11, 2025 | [3445](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3445) | 🔴 Hard |
 
 # Join our discussion!
 
