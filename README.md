@@ -359,6 +359,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 13, 2025 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2616) | 🟡 Medium |
 | June 14, 2025 | [2566](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2566) | 🟢 Easy |
 | June 15, 2025 | [1432](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1432) | 🟡 Medium |
+| June 16, 2025 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2016) | 🟢 Easy |
 
 # Join our discussion!
 
