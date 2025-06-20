@@ -363,6 +363,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 17, 2025 | [3405](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3405) | 🔴 Hard |
 | June 18, 2025 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2966) | 🟡 Medium |
 | June 19, 2025 | [2294](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2294) | 🟡 Medium |
+| June 20, 2025 | [3443](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3443) | 🟡 Medium |
 
 # Join our discussion!
 
