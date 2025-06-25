@@ -368,6 +368,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 22, 2025 | [2138](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2138) | 🟢 Easy |
 | June 23, 2025 | [2081](https://leetcode.com/problems/sum-of-k-mirror-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2081) | 🔴 Hard |
 | June 24, 2025 | [2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2200) | 🟢 Easy |
+| June 25, 2025 | [2040](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2040) | 🔴 Hard |
 
 # Join our discussion!
 
