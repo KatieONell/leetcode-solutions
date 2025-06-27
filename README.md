@@ -370,6 +370,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 24, 2025 | [2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2200) | 🟢 Easy |
 | June 25, 2025 | [2040](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2040) | 🔴 Hard |
 | June 26, 2025 | [2311](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2311) | 🟡 Medium |
+| June 27, 2025 | [2014](https://leetcode.com/problems/longest-subsequence-repeated-k-times) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2014) | 🔴 Hard |
 
 # Join our discussion!
 
