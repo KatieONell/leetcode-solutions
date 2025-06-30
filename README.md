@@ -373,6 +373,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 27, 2025 | [2014](https://leetcode.com/problems/longest-subsequence-repeated-k-times) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2014) | 🔴 Hard |
 | June 28, 2025 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2099) | 🟢 Easy |
 | June 29, 2025 | [1498](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1498) | 🟡 Medium |
+| June 30, 2025 | [594](https://leetcode.com/problems/longest-harmonious-subsequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/594) | 🟢 Easy |
 
 # Join our discussion!
 
