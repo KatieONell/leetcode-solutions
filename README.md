@@ -375,6 +375,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 29, 2025 | [1498](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1498) | 🟡 Medium |
 | June 30, 2025 | [594](https://leetcode.com/problems/longest-harmonious-subsequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/594) | 🟢 Easy |
 | July 1, 2025 | [3330](https://leetcode.com/problems/find-the-original-typed-string-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3330) | 🟢 Easy |
+| July 2, 2025 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3333) | 🔴 Hard |
 
 # Join our discussion!
 
