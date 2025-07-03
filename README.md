@@ -376,6 +376,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 30, 2025 | [594](https://leetcode.com/problems/longest-harmonious-subsequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/594) | 🟢 Easy |
 | July 1, 2025 | [3330](https://leetcode.com/problems/find-the-original-typed-string-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3330) | 🟢 Easy |
 | July 2, 2025 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3333) | 🔴 Hard |
+| July 3, 2025 | [3304](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3304) | 🟢 Easy |
 
 # Join our discussion!
 
