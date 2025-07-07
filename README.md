@@ -380,6 +380,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 4, 2025 | [3307](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3307) | 🔴 Hard |
 | July 5, 2025 | [1394](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1394) | 🟢 Easy |
 | July 6, 2025 | [1865](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1865) | 🟡 Medium |
+| July 7, 2025 | [1353](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1353) | 🟡 Medium |
 
 # Join our discussion!
 
