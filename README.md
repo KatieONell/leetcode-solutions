@@ -385,6 +385,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 9, 2025 | [3439](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3439) | 🟡 Medium |
 | July 10, 2025 | [3440](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3440) | 🟡 Medium |
 | July 11, 2025 | [2402](https://leetcode.com/problems/meeting-rooms-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2402) | 🔴 Hard |
+| July 12, 2025 | [1900](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1900) | 🔴 Hard |
 
 # Join our discussion!
 
