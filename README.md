@@ -389,6 +389,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 13, 2025 | [2410](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2410) | 🟡 Medium |
 | July 14, 2025 | [1290](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1290) | 🟢 Easy |
 | July 15, 2025 | [3136](https://leetcode.com/problems/valid-word) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3136) | 🟢 Easy |
+| July 16, 2025 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3201) | 🟡 Medium |
 
 # Join our discussion!
 
