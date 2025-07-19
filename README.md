@@ -392,6 +392,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 16, 2025 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3201) | 🟡 Medium |
 | July 17, 2025 | [3202](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3202) | 🟡 Medium |
 | July 18, 2025 | [2163](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2163) | 🔴 Hard |
+| July 19, 2025 | [1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1233) | 🟡 Medium |
 
 # Join our discussion!
 
