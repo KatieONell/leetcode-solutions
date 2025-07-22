@@ -395,6 +395,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 19, 2025 | [1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1233) | 🟡 Medium |
 | July 20, 2025 | [1948](https://leetcode.com/problems/delete-duplicate-folders-in-system) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1948) | 🔴 Hard |
 | July 21, 2025 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1957) | 🟢 Easy |
+| July 22, 2025 | [1695](https://leetcode.com/problems/maximum-erasure-value) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1695) | 🟡 Medium |
 
 # Join our discussion!
 
