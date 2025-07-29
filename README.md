@@ -402,6 +402,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 26, 2025 | [3480](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3480) | 🔴 Hard |
 | July 27, 2025 | [2210](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2210) | 🟢 Easy |
 | July 28, 2025 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2044) | 🟡 Medium |
+| July 29, 2025 | [2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2411) | 🟡 Medium |
 
 # Join our discussion!
 
