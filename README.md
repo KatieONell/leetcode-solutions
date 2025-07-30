@@ -403,6 +403,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 27, 2025 | [2210](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2210) | 🟢 Easy |
 | July 28, 2025 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2044) | 🟡 Medium |
 | July 29, 2025 | [2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2411) | 🟡 Medium |
+| July 30, 2025 | [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2419) | 🟡 Medium |
 
 # Join our discussion!
 
