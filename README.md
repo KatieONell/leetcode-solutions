@@ -407,6 +407,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 31, 2025 | [898](https://leetcode.com/problems/bitwise-ors-of-subarrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/898) | 🟡 Medium |
 | August 1, 2025 | [118](https://leetcode.com/problems/pascals-triangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/118) | 🟢 Easy |
 | August 2, 2025 | [2561](https://leetcode.com/problems/rearranging-fruits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2561) | 🔴 Hard |
+| August 3, 2025 | [2106](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2106) | 🔴 Hard |
 
 # Join our discussion!
 
