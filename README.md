@@ -410,6 +410,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 3, 2025 | [2106](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2106) | 🔴 Hard |
 | August 4, 2025 | [904](https://leetcode.com/problems/fruit-into-baskets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/904) | 🟡 Medium |
 | August 5, 2025 | [3477](https://leetcode.com/problems/fruits-into-baskets-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3477) | 🟢 Easy |
+| August 6, 2025 | [3479](https://leetcode.com/problems/fruits-into-baskets-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3479) | 🟡 Medium |
 
 # Join our discussion!
 
