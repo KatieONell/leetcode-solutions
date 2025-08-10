@@ -414,6 +414,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 7, 2025 | [3363](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3363) | 🔴 Hard |
 | August 8, 2025 | [808](https://leetcode.com/problems/soup-servings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/808) | 🟡 Medium |
 | August 9, 2025 | [231](https://leetcode.com/problems/power-of-two) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/231) | 🟢 Easy |
+| August 10, 2025 | [869](https://leetcode.com/problems/reordered-power-of-2) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/869) | 🟡 Medium |
 
 # Join our discussion!
 
