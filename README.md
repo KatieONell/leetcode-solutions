@@ -415,6 +415,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 8, 2025 | [808](https://leetcode.com/problems/soup-servings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/808) | 🟡 Medium |
 | August 9, 2025 | [231](https://leetcode.com/problems/power-of-two) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/231) | 🟢 Easy |
 | August 10, 2025 | [869](https://leetcode.com/problems/reordered-power-of-2) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/869) | 🟡 Medium |
+| August 11, 2025 | [2438](https://leetcode.com/problems/range-product-queries-of-powers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2438) | 🟡 Medium |
 
 # Join our discussion!
 
