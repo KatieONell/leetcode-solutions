@@ -419,6 +419,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 12, 2025 | [2787](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2787) | 🟡 Medium |
 | August 13, 2025 | [326](https://leetcode.com/problems/power-of-three) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/326) | 🟢 Easy |
 | August 14, 2025 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2264) | 🟢 Easy |
+| August 15, 2025 | [342](https://leetcode.com/problems/power-of-four) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/342) | 🟢 Easy |
 
 # Join our discussion!
 
