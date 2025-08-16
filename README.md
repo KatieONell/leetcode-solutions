@@ -420,6 +420,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 13, 2025 | [326](https://leetcode.com/problems/power-of-three) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/326) | 🟢 Easy |
 | August 14, 2025 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2264) | 🟢 Easy |
 | August 15, 2025 | [342](https://leetcode.com/problems/power-of-four) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/342) | 🟢 Easy |
+| August 16, 2025 | [1323](https://leetcode.com/problems/maximum-69-number) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1323) | 🟢 Easy |
 
 # Join our discussion!
 
