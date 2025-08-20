@@ -424,6 +424,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 17, 2025 | [837](https://leetcode.com/problems/new-21-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/837) | 🟡 Medium |
 | August 18, 2025 | [679](https://leetcode.com/problems/24-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/679) | 🔴 Hard |
 | August 19, 2025 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2348) | 🟡 Medium |
+| August 20, 2025 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1277) | 🟡 Medium |
 
 # Join our discussion!
 
