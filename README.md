@@ -426,6 +426,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 19, 2025 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2348) | 🟡 Medium |
 | August 20, 2025 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1277) | 🟡 Medium |
 | August 21, 2025 | [1504](https://leetcode.com/problems/count-submatrices-with-all-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1504) | 🟡 Medium |
+| August 22, 2025 | [3195](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3195) | 🟡 Medium |
 
 # Join our discussion!
 
