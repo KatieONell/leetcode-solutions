@@ -431,6 +431,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 24, 2025 | [1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1493) | 🟡 Medium |
 | August 25, 2025 | [498](https://leetcode.com/problems/diagonal-traverse) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/498) | 🟡 Medium |
 | August 26, 2025 | [3000](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3000) | 🟢 Easy |
+| August 27, 2025 | [3459](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3459) | 🔴 Hard |
 
 # Join our discussion!
 
