@@ -433,6 +433,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 26, 2025 | [3000](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3000) | 🟢 Easy |
 | August 27, 2025 | [3459](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3459) | 🔴 Hard |
 | August 28, 2025 | [3446](https://leetcode.com/problems/sort-matrix-by-diagonals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3446) | 🟡 Medium |
+| August 29, 2025 | [3021](https://leetcode.com/problems/alice-and-bob-playing-flower-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3021) | 🟡 Medium |
 
 # Join our discussion!
 
