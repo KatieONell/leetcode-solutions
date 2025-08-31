@@ -435,6 +435,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 28, 2025 | [3446](https://leetcode.com/problems/sort-matrix-by-diagonals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3446) | 🟡 Medium |
 | August 29, 2025 | [3021](https://leetcode.com/problems/alice-and-bob-playing-flower-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3021) | 🟡 Medium |
 | August 30, 2025 | [36](https://leetcode.com/problems/valid-sudoku) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/36) | 🟡 Medium |
+| August 31, 2025 | [37](https://leetcode.com/problems/sudoku-solver) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/37) | 🔴 Hard |
 
 # Join our discussion!
 
