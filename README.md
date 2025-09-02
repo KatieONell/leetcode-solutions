@@ -437,6 +437,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 30, 2025 | [36](https://leetcode.com/problems/valid-sudoku) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/36) | 🟡 Medium |
 | August 31, 2025 | [37](https://leetcode.com/problems/sudoku-solver) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/37) | 🔴 Hard |
 | September 1, 2025 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1792) | 🟡 Medium |
+| September 2, 2025 | [3025](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3025) | 🟡 Medium |
 
 # Join our discussion!
 
