@@ -439,6 +439,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 1, 2025 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1792) | 🟡 Medium |
 | September 2, 2025 | [3025](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3025) | 🟡 Medium |
 | September 3, 2025 | [3027](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3027) | 🔴 Hard |
+| September 4, 2025 | [3516](https://leetcode.com/problems/find-closest-person) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3516) | 🟢 Easy |
 
 # Join our discussion!
 
