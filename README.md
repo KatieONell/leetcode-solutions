@@ -446,6 +446,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 8, 2025 | [1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1317) | 🟢 Easy |
 | September 9, 2025 | [2327](https://leetcode.com/problems/number-of-people-aware-of-a-secret) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2327) | 🟡 Medium |
 | September 10, 2025 | [1733](https://leetcode.com/problems/minimum-number-of-people-to-teach) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1733) | 🟡 Medium |
+| September 11, 2025 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2785) | 🟡 Medium |
 
 # Join our discussion!
 
