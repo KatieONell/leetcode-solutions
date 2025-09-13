@@ -448,6 +448,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 10, 2025 | [1733](https://leetcode.com/problems/minimum-number-of-people-to-teach) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1733) | 🟡 Medium |
 | September 11, 2025 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2785) | 🟡 Medium |
 | September 12, 2025 | [3227](https://leetcode.com/problems/vowels-game-in-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3227) | 🟡 Medium |
+| September 13, 2025 | [3541](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3541) | 🟢 Easy |
 
 # Join our discussion!
 
