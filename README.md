@@ -449,6 +449,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 11, 2025 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2785) | 🟡 Medium |
 | September 12, 2025 | [3227](https://leetcode.com/problems/vowels-game-in-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3227) | 🟡 Medium |
 | September 13, 2025 | [3541](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3541) | 🟢 Easy |
+| September 14, 2025 | [966](https://leetcode.com/problems/vowel-spellchecker) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/966) | 🟡 Medium |
 
 # Join our discussion!
 
