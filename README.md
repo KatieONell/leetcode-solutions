@@ -451,6 +451,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 13, 2025 | [3541](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3541) | 🟢 Easy |
 | September 14, 2025 | [966](https://leetcode.com/problems/vowel-spellchecker) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/966) | 🟡 Medium |
 | September 15, 2025 | [1935](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1935) | 🟢 Easy |
+| September 16, 2025 | [2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2197) | 🔴 Hard |
 
 # Join our discussion!
 
