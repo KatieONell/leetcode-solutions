@@ -454,6 +454,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 16, 2025 | [2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2197) | 🔴 Hard |
 | September 17, 2025 | [2353](https://leetcode.com/problems/design-a-food-rating-system) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2353) | 🟡 Medium |
 | September 18, 2025 | [3408](https://leetcode.com/problems/design-task-manager) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3408) | 🟡 Medium |
+| September 19, 2025 | [3484](https://leetcode.com/problems/design-spreadsheet) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3484) | 🟡 Medium |
 
 # Join our discussion!
 
