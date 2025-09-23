@@ -458,6 +458,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 20, 2025 | [3508](https://leetcode.com/problems/implement-router) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3508) | 🟡 Medium |
 | September 21, 2025 | [1912](https://leetcode.com/problems/design-movie-rental-system) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1912) | 🔴 Hard |
 | September 22, 2025 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3005) | 🟢 Easy |
+| September 23, 2025 | [165](https://leetcode.com/problems/compare-version-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/165) | 🟡 Medium |
 
 # Join our discussion!
 
