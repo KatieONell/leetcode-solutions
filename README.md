@@ -463,6 +463,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 25, 2025 | [120](https://leetcode.com/problems/triangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/120) | 🟡 Medium |
 | September 26, 2025 | [611](https://leetcode.com/problems/valid-triangle-number) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/611) | 🟡 Medium |
 | September 27, 2025 | [812](https://leetcode.com/problems/largest-triangle-area) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/812) | 🟢 Easy |
+| September 28, 2025 | [976](https://leetcode.com/problems/largest-perimeter-triangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/976) | 🟢 Easy |
 
 # Join our discussion!
 
