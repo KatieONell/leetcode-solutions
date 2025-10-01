@@ -466,6 +466,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 28, 2025 | [976](https://leetcode.com/problems/largest-perimeter-triangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/976) | 🟢 Easy |
 | September 29, 2025 | [1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1039) | 🟡 Medium |
 | September 30, 2025 | [2221](https://leetcode.com/problems/find-triangular-sum-of-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2221) | 🟡 Medium |
+| October 1, 2025 | [1518](https://leetcode.com/problems/water-bottles) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1518) | 🟢 Easy |
 
 # Join our discussion!
 
