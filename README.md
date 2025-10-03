@@ -468,6 +468,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 30, 2025 | [2221](https://leetcode.com/problems/find-triangular-sum-of-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2221) | 🟡 Medium |
 | October 1, 2025 | [1518](https://leetcode.com/problems/water-bottles) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1518) | 🟢 Easy |
 | October 2, 2025 | [3100](https://leetcode.com/problems/water-bottles-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3100) | 🟡 Medium |
+| October 3, 2025 | [407](https://leetcode.com/problems/trapping-rain-water-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/407) | 🔴 Hard |
 
 # Join our discussion!
 
