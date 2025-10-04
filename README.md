@@ -469,6 +469,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 1, 2025 | [1518](https://leetcode.com/problems/water-bottles) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1518) | 🟢 Easy |
 | October 2, 2025 | [3100](https://leetcode.com/problems/water-bottles-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3100) | 🟡 Medium |
 | October 3, 2025 | [407](https://leetcode.com/problems/trapping-rain-water-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/407) | 🔴 Hard |
+| October 4, 2025 | [11](https://leetcode.com/problems/container-with-most-water) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/11) | 🟡 Medium |
 
 # Join our discussion!
 
