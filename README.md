@@ -476,6 +476,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 8, 2025 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2300) | 🟡 Medium |
 | October 9, 2025 | [3494](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3494) | 🟡 Medium |
 | October 10, 2025 | [3147](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3147) | 🟡 Medium |
+| October 11, 2025 | [3186](https://leetcode.com/problems/maximum-total-damage-with-spell-casting) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3186) | 🟡 Medium |
 
 # Join our discussion!
 
