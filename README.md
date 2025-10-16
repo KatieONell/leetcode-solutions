@@ -481,6 +481,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 13, 2025 | [2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2273) | 🟢 Easy |
 | October 14, 2025 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3349) | 🟢 Easy |
 | October 15, 2025 | [3350](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3350) | 🟡 Medium |
+| October 16, 2025 | [2598](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2598) | 🟡 Medium |
 
 # Join our discussion!
 
