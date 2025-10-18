@@ -483,6 +483,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 15, 2025 | [3350](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3350) | 🟡 Medium |
 | October 16, 2025 | [2598](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2598) | 🟡 Medium |
 | October 17, 2025 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3003) | 🔴 Hard |
+| October 18, 2025 | [3397](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3397) | 🟡 Medium |
 
 # Join our discussion!
 
