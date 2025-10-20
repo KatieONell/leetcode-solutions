@@ -485,6 +485,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 17, 2025 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3003) | 🔴 Hard |
 | October 18, 2025 | [3397](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3397) | 🟡 Medium |
 | October 19, 2025 | [1625](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1625) | 🟡 Medium |
+| October 20, 2025 | [2011](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2011) | 🟢 Easy |
 
 # Join our discussion!
 
