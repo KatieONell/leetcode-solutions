@@ -487,6 +487,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 19, 2025 | [1625](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1625) | 🟡 Medium |
 | October 20, 2025 | [2011](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2011) | 🟢 Easy |
 | October 21, 2025 | [3346](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3346) | 🟡 Medium |
+| October 22, 2025 | [3347](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3347) | 🔴 Hard |
 
 # Join our discussion!
 
