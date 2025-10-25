@@ -490,6 +490,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 22, 2025 | [3347](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3347) | 🔴 Hard |
 | October 23, 2025 | [3461](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3461) | 🟢 Easy |
 | October 24, 2025 | [2048](https://leetcode.com/problems/next-greater-numerically-balanced-number) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2048) | 🟡 Medium |
+| October 25, 2025 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1716) | 🟢 Easy |
 
 # Join our discussion!
 
