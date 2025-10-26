@@ -491,6 +491,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 23, 2025 | [3461](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3461) | 🟢 Easy |
 | October 24, 2025 | [2048](https://leetcode.com/problems/next-greater-numerically-balanced-number) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2048) | 🟡 Medium |
 | October 25, 2025 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1716) | 🟢 Easy |
+| October 26, 2025 | [2043](https://leetcode.com/problems/simple-bank-system) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2043) | 🟡 Medium |
 
 # Join our discussion!
 
