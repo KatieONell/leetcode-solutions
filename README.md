@@ -493,6 +493,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 25, 2025 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1716) | 🟢 Easy |
 | October 26, 2025 | [2043](https://leetcode.com/problems/simple-bank-system) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2043) | 🟡 Medium |
 | October 27, 2025 | [2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2125) | 🟡 Medium |
+| October 28, 2025 | [3354](https://leetcode.com/problems/make-array-elements-equal-to-zero) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3354) | 🟢 Easy |
 
 # Join our discussion!
 
