@@ -497,6 +497,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 29, 2025 | [3370](https://leetcode.com/problems/smallest-number-with-all-set-bits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3370) | 🟢 Easy |
 | October 30, 2025 | [1526](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1526) | 🔴 Hard |
 | October 31, 2025 | [3289](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3289) | 🟢 Easy |
+| November 1, 2025 | [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3217) | 🟡 Medium |
 
 # Join our discussion!
 
