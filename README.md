@@ -499,6 +499,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 31, 2025 | [3289](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3289) | 🟢 Easy |
 | November 1, 2025 | [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3217) | 🟡 Medium |
 | November 2, 2025 | [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2257) | 🟡 Medium |
+| November 3, 2025 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1578) | 🟡 Medium |
 
 # Join our discussion!
 
