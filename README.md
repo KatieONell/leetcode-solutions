@@ -500,6 +500,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 1, 2025 | [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3217) | 🟡 Medium |
 | November 2, 2025 | [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2257) | 🟡 Medium |
 | November 3, 2025 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1578) | 🟡 Medium |
+| November 4, 2025 | [3318](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3318) | 🟢 Easy |
 
 # Join our discussion!
 
