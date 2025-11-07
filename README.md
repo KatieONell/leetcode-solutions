@@ -503,6 +503,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 4, 2025 | [3318](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3318) | 🟢 Easy |
 | November 5, 2025 | [3321](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3321) | 🔴 Hard |
 | November 6, 2025 | [3607](https://leetcode.com/problems/power-grid-maintenance) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3607) | 🟡 Medium |
+| November 7, 2025 | [2528](https://leetcode.com/problems/maximize-the-minimum-powered-city) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2528) | 🔴 Hard |
 
 # Join our discussion!
 
