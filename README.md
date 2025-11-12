@@ -508,6 +508,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 9, 2025 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2169) | 🟢 Easy |
 | November 10, 2025 | [3542](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3542) | 🟡 Medium |
 | November 11, 2025 | [474](https://leetcode.com/problems/ones-and-zeroes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/474) | 🟡 Medium |
+| November 12, 2025 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2654) | 🟡 Medium |
 
 # Join our discussion!
 
