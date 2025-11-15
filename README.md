@@ -511,6 +511,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 12, 2025 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2654) | 🟡 Medium |
 | November 13, 2025 | [3228](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3228) | 🟡 Medium |
 | November 14, 2025 | [2536](https://leetcode.com/problems/increment-submatrices-by-one) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2536) | 🟡 Medium |
+| November 15, 2025 | [3234](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3234) | 🟡 Medium |
 
 # Join our discussion!
 
