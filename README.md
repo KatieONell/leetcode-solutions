@@ -514,6 +514,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 15, 2025 | [3234](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3234) | 🟡 Medium |
 | November 16, 2025 | [1513](https://leetcode.com/problems/number-of-substrings-with-only-1s) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1513) | 🟡 Medium |
 | November 17, 2025 | [1437](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1437) | 🟢 Easy |
+| November 18, 2025 | [717](https://leetcode.com/problems/1-bit-and-2-bit-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/717) | 🟢 Easy |
 
 # Join our discussion!
 
