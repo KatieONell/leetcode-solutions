@@ -518,6 +518,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 19, 2025 | [2154](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2154) | 🟢 Easy |
 | November 20, 2025 | [757](https://leetcode.com/problems/set-intersection-size-at-least-two) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/757) | 🔴 Hard |
 | November 21, 2025 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1930) | 🟡 Medium |
+| November 22, 2025 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3190) | 🟢 Easy |
 
 # Join our discussion!
 
