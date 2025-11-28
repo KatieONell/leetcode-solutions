@@ -524,6 +524,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 25, 2025 | [1015](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1015) | 🟡 Medium |
 | November 26, 2025 | [2435](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2435) | 🔴 Hard |
 | November 27, 2025 | [3381](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3381) | 🟡 Medium |
+| November 28, 2025 | [2872](https://leetcode.com/problems/maximum-number-of-k-divisible-components) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2872) | 🔴 Hard |
 
 # Join our discussion!
 
