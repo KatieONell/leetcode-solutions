@@ -527,6 +527,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 28, 2025 | [2872](https://leetcode.com/problems/maximum-number-of-k-divisible-components) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2872) | 🔴 Hard |
 | November 29, 2025 | [3512](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3512) | 🟢 Easy |
 | November 30, 2025 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1590) | 🟡 Medium |
+| December 1, 2025 | [2141](https://leetcode.com/problems/maximum-running-time-of-n-computers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2141) | 🔴 Hard |
 
 # Join our discussion!
 
