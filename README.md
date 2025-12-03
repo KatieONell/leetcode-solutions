@@ -529,6 +529,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 30, 2025 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1590) | 🟡 Medium |
 | December 1, 2025 | [2141](https://leetcode.com/problems/maximum-running-time-of-n-computers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2141) | 🔴 Hard |
 | December 2, 2025 | [3623](https://leetcode.com/problems/count-number-of-trapezoids-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3623) | 🟡 Medium |
+| December 3, 2025 | [3625](https://leetcode.com/problems/count-number-of-trapezoids-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3625) | 🔴 Hard |
 
 # Join our discussion!
 
