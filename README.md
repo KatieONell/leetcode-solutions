@@ -530,6 +530,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 1, 2025 | [2141](https://leetcode.com/problems/maximum-running-time-of-n-computers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2141) | 🔴 Hard |
 | December 2, 2025 | [3623](https://leetcode.com/problems/count-number-of-trapezoids-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3623) | 🟡 Medium |
 | December 3, 2025 | [3625](https://leetcode.com/problems/count-number-of-trapezoids-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3625) | 🔴 Hard |
+| December 4, 2025 | [2211](https://leetcode.com/problems/count-collisions-on-a-road) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2211) | 🟡 Medium |
 
 # Join our discussion!
 
