@@ -531,6 +531,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 2, 2025 | [3623](https://leetcode.com/problems/count-number-of-trapezoids-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3623) | 🟡 Medium |
 | December 3, 2025 | [3625](https://leetcode.com/problems/count-number-of-trapezoids-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3625) | 🔴 Hard |
 | December 4, 2025 | [2211](https://leetcode.com/problems/count-collisions-on-a-road) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2211) | 🟡 Medium |
+| December 5, 2025 | [3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3432) | 🟢 Easy |
 
 # Join our discussion!
 
