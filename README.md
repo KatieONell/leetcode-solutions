@@ -534,6 +534,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 5, 2025 | [3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3432) | 🟢 Easy |
 | December 6, 2025 | [3578](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3578) | 🟡 Medium |
 | December 7, 2025 | [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1523) | 🟢 Easy |
+| December 8, 2025 | [1925](https://leetcode.com/problems/count-square-sum-triples) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1925) | 🟢 Easy |
 
 # Join our discussion!
 
