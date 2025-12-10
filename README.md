@@ -536,6 +536,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 7, 2025 | [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1523) | 🟢 Easy |
 | December 8, 2025 | [1925](https://leetcode.com/problems/count-square-sum-triples) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1925) | 🟢 Easy |
 | December 9, 2025 | [3583](https://leetcode.com/problems/count-special-triplets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3583) | 🟡 Medium |
+| December 10, 2025 | [3577](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3577) | 🟡 Medium |
 
 # Join our discussion!
 
