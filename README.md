@@ -538,6 +538,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 9, 2025 | [3583](https://leetcode.com/problems/count-special-triplets) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3583) | 🟡 Medium |
 | December 10, 2025 | [3577](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3577) | 🟡 Medium |
 | December 11, 2025 | [3531](https://leetcode.com/problems/count-covered-buildings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3531) | 🟡 Medium |
+| December 12, 2025 | [3433](https://leetcode.com/problems/count-mentions-per-user) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3433) | 🟡 Medium |
 
 # Join our discussion!
 
