@@ -541,6 +541,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 12, 2025 | [3433](https://leetcode.com/problems/count-mentions-per-user) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3433) | 🟡 Medium |
 | December 13, 2025 | [3606](https://leetcode.com/problems/coupon-code-validator) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3606) | 🟢 Easy |
 | December 14, 2025 | [2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2147) | 🔴 Hard |
+| December 15, 2025 | [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2110) | 🟡 Medium |
 
 # Join our discussion!
 
