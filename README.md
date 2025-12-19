@@ -545,6 +545,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 16, 2025 | [3562](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3562) | 🔴 Hard |
 | December 17, 2025 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3573) | 🟡 Medium |
 | December 18, 2025 | [3652](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3652) | 🟡 Medium |
+| December 19, 2025 | [2092](https://leetcode.com/problems/find-all-people-with-secret) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2092) | 🔴 Hard |
 
 # Join our discussion!
 
