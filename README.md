@@ -548,6 +548,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 19, 2025 | [2092](https://leetcode.com/problems/find-all-people-with-secret) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2092) | 🔴 Hard |
 | December 20, 2025 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/944) | 🟢 Easy |
 | December 21, 2025 | [955](https://leetcode.com/problems/delete-columns-to-make-sorted-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/955) | 🟡 Medium |
+| December 22, 2025 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/960) | 🔴 Hard |
 
 # Join our discussion!
 
