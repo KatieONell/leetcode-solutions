@@ -550,6 +550,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 21, 2025 | [955](https://leetcode.com/problems/delete-columns-to-make-sorted-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/955) | 🟡 Medium |
 | December 22, 2025 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/960) | 🔴 Hard |
 | December 23, 2025 | [2054](https://leetcode.com/problems/two-best-non-overlapping-events) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2054) | 🟡 Medium |
+| December 24, 2025 | [3074](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3074) | 🟢 Easy |
 
 # Join our discussion!
 
