@@ -552,6 +552,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 23, 2025 | [2054](https://leetcode.com/problems/two-best-non-overlapping-events) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2054) | 🟡 Medium |
 | December 24, 2025 | [3074](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3074) | 🟢 Easy |
 | December 25, 2025 | [3075](https://leetcode.com/problems/maximize-happiness-of-selected-children) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3075) | 🟡 Medium |
+| December 26, 2025 | [2483](https://leetcode.com/problems/minimum-penalty-for-a-shop) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2483) | 🟡 Medium |
 
 # Join our discussion!
 
