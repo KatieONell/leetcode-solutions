@@ -557,6 +557,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | December 28, 2025 | [1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1351) | 🟢 Easy |
 | December 29, 2025 | [756](https://leetcode.com/problems/pyramid-transition-matrix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/756) | 🟡 Medium |
 | December 30, 2025 | [840](https://leetcode.com/problems/magic-squares-in-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/840) | 🟡 Medium |
+| December 31, 2025 | [1970](https://leetcode.com/problems/last-day-where-you-can-still-cross) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1970) | 🔴 Hard |
 
 # Join our discussion!
 
