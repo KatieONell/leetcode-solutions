@@ -561,6 +561,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 1, 2026 | [66](https://leetcode.com/problems/plus-one) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/66) | 🟢 Easy |
 | January 2, 2026 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/961) | 🟢 Easy |
 | January 3, 2026 | [1411](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1411) | 🔴 Hard |
+| January 4, 2026 | [1390](https://leetcode.com/problems/four-divisors) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1390) | 🟡 Medium |
 
 # Join our discussion!
 
