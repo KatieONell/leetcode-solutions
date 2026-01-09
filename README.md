@@ -566,6 +566,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 6, 2026 | [1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1161) | 🟡 Medium |
 | January 7, 2026 | [1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1339) | 🟡 Medium |
 | January 8, 2026 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1458) | 🔴 Hard |
+| January 9, 2026 | [865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/865) | 🟡 Medium |
 
 # Join our discussion!
 
