@@ -568,6 +568,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 8, 2026 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1458) | 🔴 Hard |
 | January 9, 2026 | [865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/865) | 🟡 Medium |
 | January 10, 2026 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/712) | 🟡 Medium |
+| January 11, 2026 | [85](https://leetcode.com/problems/maximal-rectangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/85) | 🔴 Hard |
 
 # Join our discussion!
 
