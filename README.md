@@ -569,6 +569,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 9, 2026 | [865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/865) | 🟡 Medium |
 | January 10, 2026 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/712) | 🟡 Medium |
 | January 11, 2026 | [85](https://leetcode.com/problems/maximal-rectangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/85) | 🔴 Hard |
+| January 12, 2026 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1266) | 🟢 Easy |
 
 # Join our discussion!
 
