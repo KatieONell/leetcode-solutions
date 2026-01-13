@@ -570,6 +570,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 10, 2026 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/712) | 🟡 Medium |
 | January 11, 2026 | [85](https://leetcode.com/problems/maximal-rectangle) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/85) | 🔴 Hard |
 | January 12, 2026 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1266) | 🟢 Easy |
+| January 13, 2026 | [3453](https://leetcode.com/problems/separate-squares-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3453) | 🟡 Medium |
 
 # Join our discussion!
 
