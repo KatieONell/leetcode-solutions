@@ -573,6 +573,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 13, 2026 | [3453](https://leetcode.com/problems/separate-squares-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3453) | 🟡 Medium |
 | January 14, 2026 | [3454](https://leetcode.com/problems/separate-squares-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3454) | 🔴 Hard |
 | January 15, 2026 | [2943](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2943) | 🟡 Medium |
+| January 16, 2026 | [2975](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2975) | 🟡 Medium |
 
 # Join our discussion!
 
