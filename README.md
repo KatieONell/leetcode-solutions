@@ -575,6 +575,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 15, 2026 | [2943](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2943) | 🟡 Medium |
 | January 16, 2026 | [2975](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2975) | 🟡 Medium |
 | January 17, 2026 | [3047](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3047) | 🟡 Medium |
+| January 18, 2026 | [1895](https://leetcode.com/problems/largest-magic-square) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1895) | 🟡 Medium |
 
 # Join our discussion!
 
