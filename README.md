@@ -580,6 +580,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 20, 2026 | [3314](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3314) | 🟢 Easy |
 | January 21, 2026 | [3315](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3315) | 🟡 Medium |
 | January 22, 2026 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3507) | 🟢 Easy |
+| January 23, 2026 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3510) | 🔴 Hard |
 
 # Join our discussion!
 
