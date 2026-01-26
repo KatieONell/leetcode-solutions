@@ -583,6 +583,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 23, 2026 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3510) | 🔴 Hard |
 | January 24, 2026 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1877) | 🟡 Medium |
 | January 25, 2026 | [1984](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1984) | 🟢 Easy |
+| January 26, 2026 | [1200](https://leetcode.com/problems/minimum-absolute-difference) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1200) | 🟢 Easy |
 
 # Join our discussion!
 
