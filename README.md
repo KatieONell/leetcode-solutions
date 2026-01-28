@@ -585,6 +585,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 25, 2026 | [1984](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1984) | 🟢 Easy |
 | January 26, 2026 | [1200](https://leetcode.com/problems/minimum-absolute-difference) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1200) | 🟢 Easy |
 | January 27, 2026 | [3650](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3650) | 🟡 Medium |
+| January 28, 2026 | [3651](https://leetcode.com/problems/minimum-cost-path-with-teleportations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3651) | 🔴 Hard |
 
 # Join our discussion!
 
