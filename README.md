@@ -587,6 +587,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | January 27, 2026 | [3650](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3650) | 🟡 Medium |
 | January 28, 2026 | [3651](https://leetcode.com/problems/minimum-cost-path-with-teleportations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3651) | 🔴 Hard |
 | January 29, 2026 | [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2976) | 🟡 Medium |
+| January 30, 2026 | [2977](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2977) | 🔴 Hard |
 
 # Join our discussion!
 
