@@ -593,6 +593,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 2, 2026 | [3013](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3013) | 🔴 Hard |
 | February 3, 2026 | [3637](https://leetcode.com/problems/trionic-array-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3637) | 🟢 Easy |
 | February 4, 2026 | [3640](https://leetcode.com/problems/trionic-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3640) | 🔴 Hard |
+| February 5, 2026 | [3379](https://leetcode.com/problems/transformed-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3379) | 🟢 Easy |
 
 # Join our discussion!
 
