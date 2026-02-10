@@ -598,6 +598,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 7, 2026 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1653) | 🟡 Medium |
 | February 8, 2026 | [110](https://leetcode.com/problems/balanced-binary-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/110) | 🟢 Easy |
 | February 9, 2026 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1382) | 🟡 Medium |
+| February 10, 2026 | [3719](https://leetcode.com/problems/longest-balanced-subarray-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3719) | 🟡 Medium |
 
 # Join our discussion!
 
