@@ -600,6 +600,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 9, 2026 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1382) | 🟡 Medium |
 | February 10, 2026 | [3719](https://leetcode.com/problems/longest-balanced-subarray-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3719) | 🟡 Medium |
 | February 11, 2026 | [3721](https://leetcode.com/problems/longest-balanced-subarray-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3721) | 🔴 Hard |
+| February 12, 2026 | [3713](https://leetcode.com/problems/longest-balanced-substring-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3713) | 🟡 Medium |
 
 # Join our discussion!
 
