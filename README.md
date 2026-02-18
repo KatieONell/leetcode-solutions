@@ -606,6 +606,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 15, 2026 | [67](https://leetcode.com/problems/add-binary) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/67) | 🟢 Easy |
 | February 16, 2026 | [190](https://leetcode.com/problems/reverse-bits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/190) | 🟢 Easy |
 | February 17, 2026 | [401](https://leetcode.com/problems/binary-watch) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/401) | 🟢 Easy |
+| February 18, 2026 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/693) | 🟢 Easy |
 
 # Join our discussion!
 
