@@ -608,6 +608,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 17, 2026 | [401](https://leetcode.com/problems/binary-watch) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/401) | 🟢 Easy |
 | February 18, 2026 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/693) | 🟢 Easy |
 | February 19, 2026 | [696](https://leetcode.com/problems/count-binary-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/696) | 🟢 Easy |
+| February 20, 2026 | [761](https://leetcode.com/problems/special-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/761) | 🔴 Hard |
 
 # Join our discussion!
 
