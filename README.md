@@ -610,6 +610,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 19, 2026 | [696](https://leetcode.com/problems/count-binary-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/696) | 🟢 Easy |
 | February 20, 2026 | [761](https://leetcode.com/problems/special-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/761) | 🔴 Hard |
 | February 21, 2026 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/762) | 🟢 Easy |
+| February 22, 2026 | [868](https://leetcode.com/problems/binary-gap) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/868) | 🟢 Easy |
 
 # Join our discussion!
 
