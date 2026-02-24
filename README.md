@@ -612,6 +612,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 21, 2026 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/762) | 🟢 Easy |
 | February 22, 2026 | [868](https://leetcode.com/problems/binary-gap) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/868) | 🟢 Easy |
 | February 23, 2026 | [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1461) | 🟡 Medium |
+| February 24, 2026 | [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1022) | 🟢 Easy |
 
 # Join our discussion!
 
