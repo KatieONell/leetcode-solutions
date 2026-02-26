@@ -614,6 +614,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 23, 2026 | [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1461) | 🟡 Medium |
 | February 24, 2026 | [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1022) | 🟢 Easy |
 | February 25, 2026 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1356) | 🟢 Easy |
+| February 26, 2026 | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1404) | 🟡 Medium |
 
 # Join our discussion!
 
