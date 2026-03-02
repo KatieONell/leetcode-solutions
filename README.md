@@ -618,6 +618,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | February 27, 2026 | [3666](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3666) | 🔴 Hard |
 | February 28, 2026 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1680) | 🟡 Medium |
 | March 1, 2026 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1689) | 🟡 Medium |
+| March 2, 2026 | [1536](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1536) | 🟡 Medium |
 
 # Join our discussion!
 
