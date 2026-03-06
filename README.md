@@ -622,6 +622,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 3, 2026 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1545) | 🟡 Medium |
 | March 4, 2026 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1582) | 🟢 Easy |
 | March 5, 2026 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1758) | 🟢 Easy |
+| March 6, 2026 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1784) | 🟢 Easy |
 
 # Join our discussion!
 
