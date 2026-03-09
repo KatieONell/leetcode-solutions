@@ -625,6 +625,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 6, 2026 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1784) | 🟢 Easy |
 | March 7, 2026 | [1888](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1888) | 🟡 Medium |
 | March 8, 2026 | [1980](https://leetcode.com/problems/find-unique-binary-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1980) | 🟡 Medium |
+| March 9, 2026 | [3129](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3129) | 🟡 Medium |
 
 # Join our discussion!
 
