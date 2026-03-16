@@ -632,6 +632,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 13, 2026 | [3296](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3296) | 🟡 Medium |
 | March 14, 2026 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1415) | 🟡 Medium |
 | March 15, 2026 | [1622](https://leetcode.com/problems/fancy-sequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1622) | 🔴 Hard |
+| March 16, 2026 | [1878](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1878) | 🟡 Medium |
 
 # Join our discussion!
 
