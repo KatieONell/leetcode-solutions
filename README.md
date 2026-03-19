@@ -635,6 +635,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 16, 2026 | [1878](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1878) | 🟡 Medium |
 | March 17, 2026 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1727) | 🟡 Medium |
 | March 18, 2026 | [3070](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3070) | 🟡 Medium |
+| March 19, 2026 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3212) | 🟡 Medium |
 
 # Join our discussion!
 
