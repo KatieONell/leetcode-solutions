@@ -637,6 +637,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 18, 2026 | [3070](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3070) | 🟡 Medium |
 | March 19, 2026 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3212) | 🟡 Medium |
 | March 20, 2026 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3567) | 🟡 Medium |
+| March 21, 2026 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3643) | 🟢 Easy |
 
 # Join our discussion!
 
