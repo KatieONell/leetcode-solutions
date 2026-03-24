@@ -640,6 +640,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 21, 2026 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3643) | 🟢 Easy |
 | March 22, 2026 | [1886](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1886) | 🟢 Easy |
 | March 23, 2026 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1594) | 🟡 Medium |
+| March 24, 2026 | [2906](https://leetcode.com/problems/construct-product-matrix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2906) | 🟡 Medium |
 
 # Join our discussion!
 
