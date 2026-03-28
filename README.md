@@ -644,6 +644,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 25, 2026 | [3546](https://leetcode.com/problems/equal-sum-grid-partition-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3546) | 🟡 Medium |
 | March 26, 2026 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3548) | 🔴 Hard |
 | March 27, 2026 | [2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2946) | 🟢 Easy |
+| March 28, 2026 | [2573](https://leetcode.com/problems/find-the-string-with-lcp) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2573) | 🔴 Hard |
 
 # Join our discussion!
 
