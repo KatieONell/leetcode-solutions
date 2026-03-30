@@ -646,6 +646,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 27, 2026 | [2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2946) | 🟢 Easy |
 | March 28, 2026 | [2573](https://leetcode.com/problems/find-the-string-with-lcp) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2573) | 🔴 Hard |
 | March 29, 2026 | [2839](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2839) | 🟢 Easy |
+| March 30, 2026 | [2840](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2840) | 🟡 Medium |
 
 # Join our discussion!
 
