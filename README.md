@@ -649,6 +649,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | March 30, 2026 | [2840](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2840) | 🟡 Medium |
 | March 31, 2026 | [3474](https://leetcode.com/problems/lexicographically-smallest-generated-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3474) | 🔴 Hard |
 | April 1, 2026 | [2751](https://leetcode.com/problems/robot-collisions) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2751) | 🔴 Hard |
+| April 2, 2026 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3418) | 🟡 Medium |
 
 # Join our discussion!
 
