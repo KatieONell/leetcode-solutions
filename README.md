@@ -653,6 +653,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 3, 2026 | [3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3661) | 🔴 Hard |
 | April 4, 2026 | [2075](https://leetcode.com/problems/decode-the-slanted-ciphertext) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2075) | 🟡 Medium |
 | April 5, 2026 | [657](https://leetcode.com/problems/robot-return-to-origin) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/657) | 🟢 Easy |
+| April 6, 2026 | [874](https://leetcode.com/problems/walking-robot-simulation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/874) | 🟡 Medium |
 
 # Join our discussion!
 
