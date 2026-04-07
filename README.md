@@ -654,6 +654,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 4, 2026 | [2075](https://leetcode.com/problems/decode-the-slanted-ciphertext) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2075) | 🟡 Medium |
 | April 5, 2026 | [657](https://leetcode.com/problems/robot-return-to-origin) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/657) | 🟢 Easy |
 | April 6, 2026 | [874](https://leetcode.com/problems/walking-robot-simulation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/874) | 🟡 Medium |
+| April 7, 2026 | [2069](https://leetcode.com/problems/walking-robot-simulation-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2069) | 🟡 Medium |
 
 # Join our discussion!
 
