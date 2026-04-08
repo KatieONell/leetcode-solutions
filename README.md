@@ -655,6 +655,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 5, 2026 | [657](https://leetcode.com/problems/robot-return-to-origin) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/657) | 🟢 Easy |
 | April 6, 2026 | [874](https://leetcode.com/problems/walking-robot-simulation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/874) | 🟡 Medium |
 | April 7, 2026 | [2069](https://leetcode.com/problems/walking-robot-simulation-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2069) | 🟡 Medium |
+| April 8, 2026 | [3653](https://leetcode.com/problems/xor-after-range-multiplication-queries-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3653) | 🟡 Medium |
 
 # Join our discussion!
 
