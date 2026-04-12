@@ -659,6 +659,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 9, 2026 | [3655](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3655) | 🔴 Hard |
 | April 10, 2026 | [3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3740) | 🟢 Easy |
 | April 11, 2026 | [3741](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3741) | 🟡 Medium |
+| April 12, 2026 | [1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1320) | 🔴 Hard |
 
 # Join our discussion!
 
