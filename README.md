@@ -663,6 +663,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 13, 2026 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1848) | 🟢 Easy |
 | April 14, 2026 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2463) | 🔴 Hard |
 | April 15, 2026 | [2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2515) | 🟢 Easy |
+| April 16, 2026 | [3488](https://leetcode.com/problems/closest-equal-element-queries) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3488) | 🟡 Medium |
 
 # Join our discussion!
 
