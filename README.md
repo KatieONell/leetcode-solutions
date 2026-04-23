@@ -670,6 +670,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 20, 2026 | [2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2078) | 🟢 Easy |
 | April 21, 2026 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1722) | 🟡 Medium |
 | April 22, 2026 | [2452](https://leetcode.com/problems/words-within-two-edits-of-dictionary) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2452) | 🟡 Medium |
+| April 23, 2026 | [2615](https://leetcode.com/problems/sum-of-distances) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2615) | 🟡 Medium |
 
 # Join our discussion!
 
