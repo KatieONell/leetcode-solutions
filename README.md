@@ -671,6 +671,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 21, 2026 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1722) | 🟡 Medium |
 | April 22, 2026 | [2452](https://leetcode.com/problems/words-within-two-edits-of-dictionary) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2452) | 🟡 Medium |
 | April 23, 2026 | [2615](https://leetcode.com/problems/sum-of-distances) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2615) | 🟡 Medium |
+| April 24, 2026 | [2833](https://leetcode.com/problems/furthest-point-from-origin) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2833) | 🟢 Easy |
 
 # Join our discussion!
 
