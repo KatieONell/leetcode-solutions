@@ -676,6 +676,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 26, 2026 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1559) | 🟡 Medium |
 | April 27, 2026 | [1391](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1391) | 🟡 Medium |
 | April 28, 2026 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2033) | 🟡 Medium |
+| April 29, 2026 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3225) | 🔴 Hard |
 
 # Join our discussion!
 
