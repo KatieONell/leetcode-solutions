@@ -678,6 +678,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 28, 2026 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2033) | 🟡 Medium |
 | April 29, 2026 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3225) | 🔴 Hard |
 | April 30, 2026 | [3742](https://leetcode.com/problems/maximum-path-score-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3742) | 🟡 Medium |
+| May 1, 2026 | [396](https://leetcode.com/problems/rotate-function) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/396) | 🟡 Medium |
 
 # Join our discussion!
 
