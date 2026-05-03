@@ -680,6 +680,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | April 30, 2026 | [3742](https://leetcode.com/problems/maximum-path-score-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3742) | 🟡 Medium |
 | May 1, 2026 | [396](https://leetcode.com/problems/rotate-function) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/396) | 🟡 Medium |
 | May 2, 2026 | [788](https://leetcode.com/problems/rotated-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/788) | 🟡 Medium |
+| May 3, 2026 | [796](https://leetcode.com/problems/rotate-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/796) | 🟢 Easy |
 
 # Join our discussion!
 
