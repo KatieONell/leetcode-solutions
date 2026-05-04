@@ -681,6 +681,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 1, 2026 | [396](https://leetcode.com/problems/rotate-function) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/396) | 🟡 Medium |
 | May 2, 2026 | [788](https://leetcode.com/problems/rotated-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/788) | 🟡 Medium |
 | May 3, 2026 | [796](https://leetcode.com/problems/rotate-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/796) | 🟢 Easy |
+| May 4, 2026 | [48](https://leetcode.com/problems/rotate-image) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/48) | 🟡 Medium |
 
 # Join our discussion!
 
