@@ -685,6 +685,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 5, 2026 | [61](https://leetcode.com/problems/rotate-list) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/61) | 🟡 Medium |
 | May 6, 2026 | [1861](https://leetcode.com/problems/rotating-the-box) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1861) | 🟡 Medium |
 | May 7, 2026 | [3660](https://leetcode.com/problems/jump-game-ix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3660) | 🟡 Medium |
+| May 8, 2026 | [3629](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3629) | 🟡 Medium |
 
 # Join our discussion!
 
