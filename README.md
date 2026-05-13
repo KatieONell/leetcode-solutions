@@ -690,6 +690,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 10, 2026 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2770) | 🟡 Medium |
 | May 11, 2026 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2553) | 🟢 Easy |
 | May 12, 2026 | [1665](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1665) | 🔴 Hard |
+| May 13, 2026 | [1674](https://leetcode.com/problems/minimum-moves-to-make-array-complementary) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1674) | 🟡 Medium |
 
 # Join our discussion!
 
