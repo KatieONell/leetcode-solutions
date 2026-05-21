@@ -697,6 +697,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 17, 2026 | [1306](https://leetcode.com/problems/jump-game-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1306) | 🟡 Medium |
 | May 18, 2026 | [1345](https://leetcode.com/problems/jump-game-iv) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1345) | 🔴 Hard |
 | May 19, 2026 | [2540](https://leetcode.com/problems/minimum-common-value) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2540) | 🟢 Easy |
+| May 21, 2026 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3043) | 🟡 Medium |
 
 # Join our discussion!
 
