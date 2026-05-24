@@ -700,6 +700,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 21, 2026 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3043) | 🟡 Medium |
 | May 22, 2026 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/33) | 🟡 Medium |
 | May 23, 2026 | [1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1752) | 🟢 Easy |
+| May 24, 2026 | [1340](https://leetcode.com/problems/jump-game-v) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1340) | 🔴 Hard |
 
 # Join our discussion!
 
