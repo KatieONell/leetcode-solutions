@@ -703,6 +703,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 24, 2026 | [1340](https://leetcode.com/problems/jump-game-v) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1340) | 🔴 Hard |
 | May 25, 2026 | [1871](https://leetcode.com/problems/jump-game-vii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1871) | 🟡 Medium |
 | May 26, 2026 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3120) | 🟢 Easy |
+| May 27, 2026 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3121) | 🟡 Medium |
 
 # Join our discussion!
 
