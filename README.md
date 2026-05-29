@@ -705,6 +705,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 26, 2026 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3120) | 🟢 Easy |
 | May 27, 2026 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3121) | 🟡 Medium |
 | May 28, 2026 | [3093](https://leetcode.com/problems/longest-common-suffix-queries) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3093) | 🔴 Hard |
+| May 29, 2026 | [3300](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3300) | 🟢 Easy |
 
 # Join our discussion!
 
