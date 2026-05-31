@@ -707,6 +707,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 28, 2026 | [3093](https://leetcode.com/problems/longest-common-suffix-queries) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3093) | 🔴 Hard |
 | May 29, 2026 | [3300](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3300) | 🟢 Easy |
 | May 30, 2026 | [3161](https://leetcode.com/problems/block-placement-queries) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3161) | 🔴 Hard |
+| May 31, 2026 | [2126](https://leetcode.com/problems/destroying-asteroids) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2126) | 🟡 Medium |
 
 # Join our discussion!
 
