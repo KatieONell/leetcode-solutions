@@ -709,6 +709,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 30, 2026 | [3161](https://leetcode.com/problems/block-placement-queries) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3161) | 🔴 Hard |
 | May 31, 2026 | [2126](https://leetcode.com/problems/destroying-asteroids) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2126) | 🟡 Medium |
 | June 1, 2026 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2144) | 🟢 Easy |
+| June 2, 2026 | [3633](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3633) | 🟢 Easy |
 
 # Join our discussion!
 
