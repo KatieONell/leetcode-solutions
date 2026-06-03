@@ -710,6 +710,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | May 31, 2026 | [2126](https://leetcode.com/problems/destroying-asteroids) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2126) | 🟡 Medium |
 | June 1, 2026 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2144) | 🟢 Easy |
 | June 2, 2026 | [3633](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3633) | 🟢 Easy |
+| June 3, 2026 | [3635](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3635) | 🟡 Medium |
 
 # Join our discussion!
 
