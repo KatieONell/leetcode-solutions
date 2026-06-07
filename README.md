@@ -714,6 +714,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 4, 2026 | [3751](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3751) | 🟡 Medium |
 | June 5, 2026 | [3753](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3753) | 🔴 Hard |
 | June 6, 2026 | [2574](https://leetcode.com/problems/left-and-right-sum-differences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2574) | 🟢 Easy |
+| June 7, 2026 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2196) | 🟡 Medium |
 
 # Join our discussion!
 
