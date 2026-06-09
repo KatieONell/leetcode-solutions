@@ -716,6 +716,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 6, 2026 | [2574](https://leetcode.com/problems/left-and-right-sum-differences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2574) | 🟢 Easy |
 | June 7, 2026 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2196) | 🟡 Medium |
 | June 8, 2026 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2161) | 🟡 Medium |
+| June 9, 2026 | [3689](https://leetcode.com/problems/maximum-total-subarray-value-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3689) | 🟡 Medium |
 
 # Join our discussion!
 
