@@ -720,6 +720,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 10, 2026 | [3691](https://leetcode.com/problems/maximum-total-subarray-value-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3691) | 🔴 Hard |
 | June 11, 2026 | [3558](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3558) | 🟡 Medium |
 | June 12, 2026 | [3559](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3559) | 🔴 Hard |
+| June 13, 2026 | [3838](https://leetcode.com/problems/weighted-word-mapping) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3838) | 🟢 Easy |
 
 # Join our discussion!
 
