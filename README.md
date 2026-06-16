@@ -723,6 +723,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 13, 2026 | [3838](https://leetcode.com/problems/weighted-word-mapping) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3838) | 🟢 Easy |
 | June 14, 2026 | [2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2130) | 🟡 Medium |
 | June 15, 2026 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2095) | 🟡 Medium |
+| June 16, 2026 | [3612](https://leetcode.com/problems/process-string-with-special-operations-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3612) | 🟡 Medium |
 
 # Join our discussion!
 
