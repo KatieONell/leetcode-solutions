@@ -727,6 +727,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 17, 2026 | [3614](https://leetcode.com/problems/process-string-with-special-operations-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3614) | 🔴 Hard |
 | June 18, 2026 | [1344](https://leetcode.com/problems/angle-between-hands-of-a-clock) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1344) | 🟡 Medium |
 | June 19, 2026 | [1732](https://leetcode.com/problems/find-the-highest-altitude) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1732) | 🟢 Easy |
+| June 20, 2026 | [1840](https://leetcode.com/problems/maximum-building-height) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1840) | 🔴 Hard |
 
 # Join our discussion!
 
