@@ -730,6 +730,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 20, 2026 | [1840](https://leetcode.com/problems/maximum-building-height) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1840) | 🔴 Hard |
 | June 21, 2026 | [1833](https://leetcode.com/problems/maximum-ice-cream-bars) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1833) | 🟡 Medium |
 | June 22, 2026 | [1189](https://leetcode.com/problems/maximum-number-of-balloons) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1189) | 🟢 Easy |
+| June 23, 2026 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3699) | 🔴 Hard |
 
 # Join our discussion!
 
