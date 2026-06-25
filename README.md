@@ -732,6 +732,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 22, 2026 | [1189](https://leetcode.com/problems/maximum-number-of-balloons) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1189) | 🟢 Easy |
 | June 23, 2026 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3699) | 🔴 Hard |
 | June 24, 2026 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3700) | 🔴 Hard |
+| June 25, 2026 | [3737](https://leetcode.com/problems/count-subarrays-with-majority-element-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3737) | 🟡 Medium |
 
 # Join our discussion!
 
