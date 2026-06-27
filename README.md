@@ -734,6 +734,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 24, 2026 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3700) | 🔴 Hard |
 | June 25, 2026 | [3737](https://leetcode.com/problems/count-subarrays-with-majority-element-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3737) | 🟡 Medium |
 | June 26, 2026 | [3739](https://leetcode.com/problems/count-subarrays-with-majority-element-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3739) | 🔴 Hard |
+| June 27, 2026 | [3020](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3020) | 🟡 Medium |
 
 # Join our discussion!
 
