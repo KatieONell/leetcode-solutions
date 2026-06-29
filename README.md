@@ -736,6 +736,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 26, 2026 | [3739](https://leetcode.com/problems/count-subarrays-with-majority-element-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3739) | 🔴 Hard |
 | June 27, 2026 | [3020](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3020) | 🟡 Medium |
 | June 28, 2026 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1846) | 🟡 Medium |
+| June 29, 2026 | [1967](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1967) | 🟢 Easy |
 
 # Join our discussion!
 
