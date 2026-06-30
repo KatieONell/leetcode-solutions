@@ -737,6 +737,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 27, 2026 | [3020](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3020) | 🟡 Medium |
 | June 28, 2026 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1846) | 🟡 Medium |
 | June 29, 2026 | [1967](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1967) | 🟢 Easy |
+| June 30, 2026 | [1358](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1358) | 🟡 Medium |
 
 # Join our discussion!
 
