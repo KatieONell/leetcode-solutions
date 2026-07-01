@@ -738,6 +738,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 28, 2026 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1846) | 🟡 Medium |
 | June 29, 2026 | [1967](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1967) | 🟢 Easy |
 | June 30, 2026 | [1358](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1358) | 🟡 Medium |
+| July 1, 2026 | [2812](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2812) | 🟡 Medium |
 
 # Join our discussion!
 
