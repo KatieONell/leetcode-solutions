@@ -740,6 +740,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | June 30, 2026 | [1358](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1358) | 🟡 Medium |
 | July 1, 2026 | [2812](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2812) | 🟡 Medium |
 | July 2, 2026 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3286) | 🟡 Medium |
+| July 3, 2026 | [3620](https://leetcode.com/problems/network-recovery-pathways) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3620) | 🔴 Hard |
 
 # Join our discussion!
 
