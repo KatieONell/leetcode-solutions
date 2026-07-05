@@ -742,6 +742,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 2, 2026 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3286) | 🟡 Medium |
 | July 3, 2026 | [3620](https://leetcode.com/problems/network-recovery-pathways) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3620) | 🔴 Hard |
 | July 4, 2026 | [2492](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2492) | 🟡 Medium |
+| July 5, 2026 | [1301](https://leetcode.com/problems/number-of-paths-with-max-score) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1301) | 🔴 Hard |
 
 # Join our discussion!
 
