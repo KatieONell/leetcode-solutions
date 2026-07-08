@@ -745,6 +745,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 5, 2026 | [1301](https://leetcode.com/problems/number-of-paths-with-max-score) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1301) | 🔴 Hard |
 | July 6, 2026 | [1288](https://leetcode.com/problems/remove-covered-intervals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1288) | 🟡 Medium |
 | July 7, 2026 | [3754](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3754) | 🟢 Easy |
+| July 8, 2026 | [3756](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3756) | 🟡 Medium |
 
 # Join our discussion!
 
