@@ -748,6 +748,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 8, 2026 | [3756](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3756) | 🟡 Medium |
 | July 9, 2026 | [3532](https://leetcode.com/problems/path-existence-queries-in-a-graph-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3532) | 🟡 Medium |
 | July 10, 2026 | [3534](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3534) | 🔴 Hard |
+| July 11, 2026 | [2685](https://leetcode.com/problems/count-the-number-of-complete-components) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2685) | 🟡 Medium |
 
 # Join our discussion!
 
