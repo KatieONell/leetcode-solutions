@@ -751,6 +751,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 11, 2026 | [2685](https://leetcode.com/problems/count-the-number-of-complete-components) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2685) | 🟡 Medium |
 | July 12, 2026 | [1331](https://leetcode.com/problems/rank-transform-of-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1331) | 🟢 Easy |
 | July 13, 2026 | [1291](https://leetcode.com/problems/sequential-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1291) | 🟡 Medium |
+| July 14, 2026 | [3336](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3336) | 🔴 Hard |
 
 # Join our discussion!
 
