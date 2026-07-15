@@ -752,6 +752,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 12, 2026 | [1331](https://leetcode.com/problems/rank-transform-of-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1331) | 🟢 Easy |
 | July 13, 2026 | [1291](https://leetcode.com/problems/sequential-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1291) | 🟡 Medium |
 | July 14, 2026 | [3336](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3336) | 🔴 Hard |
+| July 15, 2026 | [3658](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3658) | 🟢 Easy |
 
 # Join our discussion!
 
