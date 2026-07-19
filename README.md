@@ -756,6 +756,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 16, 2026 | [3867](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3867) | 🟡 Medium |
 | July 17, 2026 | [3312](https://leetcode.com/problems/sorted-gcd-pair-queries) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3312) | 🔴 Hard |
 | July 18, 2026 | [1979](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1979) | 🟢 Easy |
+| July 19, 2026 | [1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1081) | 🟡 Medium |
 
 # Join our discussion!
 
