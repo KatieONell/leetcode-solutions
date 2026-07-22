@@ -759,6 +759,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 19, 2026 | [1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1081) | 🟡 Medium |
 | July 20, 2026 | [1260](https://leetcode.com/problems/shift-2d-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1260) | 🟢 Easy |
 | July 21, 2026 | [3499](https://leetcode.com/problems/maximize-active-section-with-trade-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3499) | 🟡 Medium |
+| July 22, 2026 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3501) | 🔴 Hard |
 
 # Join our discussion!
 
