@@ -761,6 +761,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 21, 2026 | [3499](https://leetcode.com/problems/maximize-active-section-with-trade-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3499) | 🟡 Medium |
 | July 22, 2026 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3501) | 🔴 Hard |
 | July 23, 2026 | [3513](https://leetcode.com/problems/number-of-unique-xor-triplets-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3513) | 🟡 Medium |
+| July 24, 2026 | [3514](https://leetcode.com/problems/number-of-unique-xor-triplets-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3514) | 🟡 Medium |
 
 # Join our discussion!
 
