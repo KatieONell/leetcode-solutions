@@ -763,6 +763,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 23, 2026 | [3513](https://leetcode.com/problems/number-of-unique-xor-triplets-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3513) | 🟡 Medium |
 | July 24, 2026 | [3514](https://leetcode.com/problems/number-of-unique-xor-triplets-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3514) | 🟡 Medium |
 | July 25, 2026 | [3536](https://leetcode.com/problems/maximum-product-of-two-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3536) | 🟢 Easy |
+| July 26, 2026 | [628](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/628) | 🟢 Easy |
 
 # Join our discussion!
 
