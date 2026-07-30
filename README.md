@@ -767,6 +767,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 27, 2026 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1464) | 🟢 Easy |
 | July 28, 2026 | [3517](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3517) | 🟡 Medium |
 | July 29, 2026 | [3518](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3518) | 🔴 Hard |
+| July 30, 2026 | [3014](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3014) | 🟢 Easy |
 
 # Join our discussion!
 
