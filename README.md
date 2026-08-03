@@ -771,6 +771,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | July 31, 2026 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3016) | 🟡 Medium |
 | August 1, 2026 | [486](https://leetcode.com/problems/predict-the-winner) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/486) | 🟡 Medium |
 | August 2, 2026 | [877](https://leetcode.com/problems/stone-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/877) | 🟡 Medium |
+| August 3, 2026 | [1406](https://leetcode.com/problems/stone-game-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1406) | 🔴 Hard |
 
 # Join our discussion!
 
