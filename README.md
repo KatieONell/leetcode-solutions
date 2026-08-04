@@ -772,6 +772,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 1, 2026 | [486](https://leetcode.com/problems/predict-the-winner) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/486) | 🟡 Medium |
 | August 2, 2026 | [877](https://leetcode.com/problems/stone-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/877) | 🟡 Medium |
 | August 3, 2026 | [1406](https://leetcode.com/problems/stone-game-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1406) | 🔴 Hard |
+| August 4, 2026 | [3731](https://leetcode.com/problems/find-missing-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3731) | 🟢 Easy |
 
 # Join our discussion!
 
