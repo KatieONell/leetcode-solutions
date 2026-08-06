@@ -774,6 +774,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 3, 2026 | [1406](https://leetcode.com/problems/stone-game-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1406) | 🔴 Hard |
 | August 4, 2026 | [3731](https://leetcode.com/problems/find-missing-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3731) | 🟢 Easy |
 | August 5, 2026 | [3310](https://leetcode.com/problems/remove-methods-from-project) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3310) | 🟡 Medium |
+| August 6, 2026 | [3345](https://leetcode.com/problems/smallest-divisible-digit-product-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3345) | 🟢 Easy |
 
 # Join our discussion!
 
