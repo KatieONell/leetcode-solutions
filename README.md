@@ -777,6 +777,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 6, 2026 | [3345](https://leetcode.com/problems/smallest-divisible-digit-product-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3345) | 🟢 Easy |
 | August 7, 2026 | [3348](https://leetcode.com/problems/smallest-divisible-digit-product-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3348) | 🔴 Hard |
 | August 8, 2026 | [3302](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3302) | 🟡 Medium |
+| August 9, 2026 | [1140](https://leetcode.com/problems/stone-game-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1140) | 🟡 Medium |
 
 # Join our discussion!
 
