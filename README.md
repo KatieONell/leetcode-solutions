@@ -779,6 +779,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 8, 2026 | [3302](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3302) | 🟡 Medium |
 | August 9, 2026 | [1140](https://leetcode.com/problems/stone-game-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1140) | 🟡 Medium |
 | August 10, 2026 | [1510](https://leetcode.com/problems/stone-game-iv) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1510) | 🔴 Hard |
+| August 11, 2026 | [2996](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2996) | 🟢 Easy |
 
 # Join our discussion!
 
