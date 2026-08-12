@@ -780,6 +780,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 9, 2026 | [1140](https://leetcode.com/problems/stone-game-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1140) | 🟡 Medium |
 | August 10, 2026 | [1510](https://leetcode.com/problems/stone-game-iv) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1510) | 🔴 Hard |
 | August 11, 2026 | [2996](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2996) | 🟢 Easy |
+| August 12, 2026 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2958) | 🟡 Medium |
 
 # Join our discussion!
 
