@@ -783,6 +783,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 12, 2026 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2958) | 🟡 Medium |
 | August 13, 2026 | [2213](https://leetcode.com/problems/longest-substring-of-one-repeating-character) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2213) | 🔴 Hard |
 | August 14, 2026 | [3090](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3090) | 🟢 Easy |
+| August 15, 2026 | [3702](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3702) | 🟡 Medium |
 
 # Join our discussion!
 
