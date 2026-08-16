@@ -784,6 +784,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 13, 2026 | [2213](https://leetcode.com/problems/longest-substring-of-one-repeating-character) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2213) | 🔴 Hard |
 | August 14, 2026 | [3090](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3090) | 🟢 Easy |
 | August 15, 2026 | [3702](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3702) | 🟡 Medium |
+| August 16, 2026 | [2029](https://leetcode.com/problems/stone-game-ix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2029) | 🟡 Medium |
 
 # Join our discussion!
 
