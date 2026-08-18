@@ -786,6 +786,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 15, 2026 | [3702](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3702) | 🟡 Medium |
 | August 16, 2026 | [2029](https://leetcode.com/problems/stone-game-ix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2029) | 🟡 Medium |
 | August 17, 2026 | [1563](https://leetcode.com/problems/stone-game-v) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1563) | 🔴 Hard |
+| August 18, 2026 | [3471](https://leetcode.com/problems/find-the-largest-almost-missing-integer) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3471) | 🟢 Easy |
 
 # Join our discussion!
 
