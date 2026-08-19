@@ -787,6 +787,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 16, 2026 | [2029](https://leetcode.com/problems/stone-game-ix) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2029) | 🟡 Medium |
 | August 17, 2026 | [1563](https://leetcode.com/problems/stone-game-v) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1563) | 🔴 Hard |
 | August 18, 2026 | [3471](https://leetcode.com/problems/find-the-largest-almost-missing-integer) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3471) | 🟢 Easy |
+| August 19, 2026 | [1386](https://leetcode.com/problems/cinema-seat-allocation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1386) | 🟡 Medium |
 
 # Join our discussion!
 
