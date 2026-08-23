@@ -791,6 +791,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 20, 2026 | [3069](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3069) | 🟢 Easy |
 | August 21, 2026 | [3116](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3116) | 🔴 Hard |
 | August 22, 2026 | [3622](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3622) | 🟢 Easy |
+| August 23, 2026 | [1927](https://leetcode.com/problems/sum-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1927) | 🟡 Medium |
 
 # Join our discussion!
 
