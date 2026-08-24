@@ -792,6 +792,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 21, 2026 | [3116](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3116) | 🔴 Hard |
 | August 22, 2026 | [3622](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3622) | 🟢 Easy |
 | August 23, 2026 | [1927](https://leetcode.com/problems/sum-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1927) | 🟡 Medium |
+| August 24, 2026 | [1872](https://leetcode.com/problems/stone-game-viii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1872) | 🔴 Hard |
 
 # Join our discussion!
 
