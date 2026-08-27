@@ -795,6 +795,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 24, 2026 | [1872](https://leetcode.com/problems/stone-game-viii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1872) | 🔴 Hard |
 | August 25, 2026 | [3718](https://leetcode.com/problems/smallest-missing-multiple-of-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3718) | 🟢 Easy |
 | August 26, 2026 | [2904](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2904) | 🟡 Medium |
+| August 27, 2026 | [3720](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3720) | 🟡 Medium |
 
 # Join our discussion!
 
