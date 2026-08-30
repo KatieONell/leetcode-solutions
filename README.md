@@ -798,6 +798,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 27, 2026 | [3720](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3720) | 🟡 Medium |
 | August 28, 2026 | [3734](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3734) | 🔴 Hard |
 | August 29, 2026 | [2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2948) | 🟡 Medium |
+| August 30, 2026 | [2091](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2091) | 🟡 Medium |
 
 # Join our discussion!
 
