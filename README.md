@@ -800,6 +800,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 29, 2026 | [2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2948) | 🟡 Medium |
 | August 30, 2026 | [2091](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2091) | 🟡 Medium |
 | August 31, 2026 | [2058](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2058) | 🟡 Medium |
+| September 1, 2026 | [3568](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3568) | 🟡 Medium |
 
 # Join our discussion!
 
