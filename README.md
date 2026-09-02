@@ -801,6 +801,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | August 30, 2026 | [2091](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2091) | 🟡 Medium |
 | August 31, 2026 | [2058](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2058) | 🟡 Medium |
 | September 1, 2026 | [3568](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3568) | 🟡 Medium |
+| September 2, 2026 | [3875](https://leetcode.com/problems/construct-uniform-parity-array-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3875) | 🟢 Easy |
 
 # Join our discussion!
 
