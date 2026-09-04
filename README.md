@@ -803,6 +803,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 1, 2026 | [3568](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3568) | 🟡 Medium |
 | September 2, 2026 | [3875](https://leetcode.com/problems/construct-uniform-parity-array-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3875) | 🟢 Easy |
 | September 3, 2026 | [3876](https://leetcode.com/problems/construct-uniform-parity-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3876) | 🟡 Medium |
+| September 4, 2026 | [3903](https://leetcode.com/problems/smallest-stable-index-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3903) | 🟢 Easy |
 
 # Join our discussion!
 
