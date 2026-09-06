@@ -805,6 +805,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 3, 2026 | [3876](https://leetcode.com/problems/construct-uniform-parity-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3876) | 🟡 Medium |
 | September 4, 2026 | [3903](https://leetcode.com/problems/smallest-stable-index-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3903) | 🟢 Easy |
 | September 5, 2026 | [3904](https://leetcode.com/problems/smallest-stable-index-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3904) | 🟡 Medium |
+| September 6, 2026 | [115](https://leetcode.com/problems/distinct-subsequences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/115) | 🔴 Hard |
 
 # Join our discussion!
 
