@@ -807,6 +807,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 5, 2026 | [3904](https://leetcode.com/problems/smallest-stable-index-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3904) | 🟡 Medium |
 | September 6, 2026 | [115](https://leetcode.com/problems/distinct-subsequences) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/115) | 🔴 Hard |
 | September 7, 2026 | [940](https://leetcode.com/problems/distinct-subsequences-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/940) | 🔴 Hard |
+| September 8, 2026 | [3870](https://leetcode.com/problems/count-commas-in-range) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3870) | 🟢 Easy |
 
 # Join our discussion!
 
