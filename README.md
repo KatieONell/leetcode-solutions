@@ -809,6 +809,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 7, 2026 | [940](https://leetcode.com/problems/distinct-subsequences-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/940) | 🔴 Hard |
 | September 8, 2026 | [3870](https://leetcode.com/problems/count-commas-in-range) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3870) | 🟢 Easy |
 | September 9, 2026 | [3871](https://leetcode.com/problems/count-commas-in-range-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3871) | 🟡 Medium |
+| September 10, 2026 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2265) | 🟡 Medium |
 
 # Join our discussion!
 
