@@ -811,6 +811,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 9, 2026 | [3871](https://leetcode.com/problems/count-commas-in-range-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3871) | 🟡 Medium |
 | September 10, 2026 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2265) | 🟡 Medium |
 | September 11, 2026 | [3483](https://leetcode.com/problems/unique-3-digit-even-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3483) | 🟢 Easy |
+| September 12, 2026 | [3414](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3414) | 🔴 Hard |
 
 # Join our discussion!
 
