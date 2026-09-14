@@ -813,6 +813,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 11, 2026 | [3483](https://leetcode.com/problems/unique-3-digit-even-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3483) | 🟢 Easy |
 | September 12, 2026 | [3414](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3414) | 🔴 Hard |
 | September 13, 2026 | [835](https://leetcode.com/problems/image-overlap) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/835) | 🟡 Medium |
+| September 14, 2026 | [836](https://leetcode.com/problems/rectangle-overlap) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/836) | 🟢 Easy |
 
 # Join our discussion!
 
