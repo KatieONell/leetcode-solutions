@@ -817,6 +817,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 15, 2026 | [2472](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2472) | 🔴 Hard |
 | September 16, 2026 | [1621](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1621) | 🟡 Medium |
 | September 17, 2026 | [1477](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1477) | 🟡 Medium |
+| September 18, 2026 | [1520](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1520) | 🔴 Hard |
 
 # Join our discussion!
 
