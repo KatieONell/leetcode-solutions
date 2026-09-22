@@ -821,6 +821,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 19, 2026 | [1401](https://leetcode.com/problems/circle-and-rectangle-overlapping) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1401) | 🟡 Medium |
 | September 20, 2026 | [3498](https://leetcode.com/problems/reverse-degree-of-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3498) | 🟢 Easy |
 | September 21, 2026 | [3524](https://leetcode.com/problems/find-x-value-of-array-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3524) | 🟡 Medium |
+| September 22, 2026 | [3525](https://leetcode.com/problems/find-x-value-of-array-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3525) | 🔴 Hard |
 
 # Join our discussion!
 
