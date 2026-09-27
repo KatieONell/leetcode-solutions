@@ -826,6 +826,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 24, 2026 | [3550](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3550) | 🟢 Easy |
 | September 25, 2026 | [1096](https://leetcode.com/problems/brace-expansion-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1096) | 🔴 Hard |
 | September 26, 2026 | [1807](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1807) | 🟡 Medium |
+| September 27, 2026 | [1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1190) | 🟡 Medium |
 
 # Join our discussion!
 
