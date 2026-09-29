@@ -828,6 +828,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 26, 2026 | [1807](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1807) | 🟡 Medium |
 | September 27, 2026 | [1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1190) | 🟡 Medium |
 | September 28, 2026 | [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1614) | 🟢 Easy |
+| September 29, 2026 | [2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2267) | 🔴 Hard |
 
 # Join our discussion!
 
