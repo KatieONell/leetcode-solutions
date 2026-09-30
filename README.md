@@ -829,6 +829,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 27, 2026 | [1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1190) | 🟡 Medium |
 | September 28, 2026 | [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1614) | 🟢 Easy |
 | September 29, 2026 | [2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2267) | 🔴 Hard |
+| September 30, 2026 | [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1111) | 🟡 Medium |
 
 # Join our discussion!
 
