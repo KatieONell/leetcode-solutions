@@ -831,6 +831,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | September 29, 2026 | [2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2267) | 🔴 Hard |
 | September 30, 2026 | [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1111) | 🟡 Medium |
 | October 1, 2026 | [20](https://leetcode.com/problems/valid-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/20) | 🟢 Easy |
+| October 2, 2026 | [22](https://leetcode.com/problems/generate-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/22) | 🟡 Medium |
 
 # Join our discussion!
 
