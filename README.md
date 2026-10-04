@@ -833,6 +833,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 1, 2026 | [20](https://leetcode.com/problems/valid-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/20) | 🟢 Easy |
 | October 2, 2026 | [22](https://leetcode.com/problems/generate-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/22) | 🟡 Medium |
 | October 3, 2026 | [32](https://leetcode.com/problems/longest-valid-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/32) | 🔴 Hard |
+| October 4, 2026 | [678](https://leetcode.com/problems/valid-parenthesis-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/678) | 🟡 Medium |
 
 # Join our discussion!
 
