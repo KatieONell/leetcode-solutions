@@ -837,6 +837,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 5, 2026 | [856](https://leetcode.com/problems/score-of-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/856) | 🟡 Medium |
 | October 6, 2026 | [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/921) | 🟡 Medium |
 | October 7, 2026 | [301](https://leetcode.com/problems/remove-invalid-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/301) | 🔴 Hard |
+| October 8, 2026 | [1021](https://leetcode.com/problems/remove-outermost-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1021) | 🟢 Easy |
 
 # Join our discussion!
 
