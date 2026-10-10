@@ -839,6 +839,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 7, 2026 | [301](https://leetcode.com/problems/remove-invalid-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/301) | 🔴 Hard |
 | October 8, 2026 | [1021](https://leetcode.com/problems/remove-outermost-parentheses) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1021) | 🟢 Easy |
 | October 9, 2026 | [1541](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1541) | 🟡 Medium |
+| October 10, 2026 | [2333](https://leetcode.com/problems/minimum-sum-of-squared-difference) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2333) | 🟡 Medium |
 
 # Join our discussion!
 
