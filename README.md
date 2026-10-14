@@ -843,6 +843,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 11, 2026 | [2778](https://leetcode.com/problems/sum-of-squares-of-special-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2778) | 🟢 Easy |
 | October 12, 2026 | [2897](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2897) | 🔴 Hard |
 | October 13, 2026 | [3727](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3727) | 🟡 Medium |
+| October 14, 2026 | [3723](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3723) | 🟡 Medium |
 
 # Join our discussion!
 
