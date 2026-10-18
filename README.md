@@ -847,6 +847,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 15, 2026 | [2913](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2913) | 🟢 Easy |
 | October 16, 2026 | [2916](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2916) | 🔴 Hard |
 | October 17, 2026 | [3551](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3551) | 🟡 Medium |
+| October 18, 2026 | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1569) | 🔴 Hard |
 
 # Join our discussion!
 
