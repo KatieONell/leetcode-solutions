@@ -852,6 +852,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 20, 2026 | [3886](https://leetcode.com/problems/sum-of-sortable-integers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3886) | 🔴 Hard |
 | October 21, 2026 | [3863](https://leetcode.com/problems/minimum-operations-to-sort-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3863) | 🟡 Medium |
 | October 22, 2026 | [3942](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3942) | 🟡 Medium |
+| October 23, 2026 | [3644](https://leetcode.com/problems/maximum-k-to-sort-a-permutation) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3644) | 🟡 Medium |
 
 # Join our discussion!
 
