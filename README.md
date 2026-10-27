@@ -856,6 +856,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 24, 2026 | [2409](https://leetcode.com/problems/count-days-spent-together) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2409) | 🟢 Easy |
 | October 25, 2026 | [1254](https://leetcode.com/problems/number-of-closed-islands) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1254) | 🟡 Medium |
 | October 26, 2026 | [3619](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3619) | 🟡 Medium |
+| October 27, 2026 | [3963](https://leetcode.com/problems/create-grid-with-exactly-one-path) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3963) | 🟢 Easy |
 
 # Join our discussion!
 
