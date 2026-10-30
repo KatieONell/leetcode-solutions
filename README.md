@@ -859,6 +859,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 27, 2026 | [3963](https://leetcode.com/problems/create-grid-with-exactly-one-path) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3963) | 🟢 Easy |
 | October 28, 2026 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3882) | 🟡 Medium |
 | October 29, 2026 | [3841](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3841) | 🔴 Hard |
+| October 30, 2026 | [3970](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3970) | 🟡 Medium |
 
 # Join our discussion!
 
