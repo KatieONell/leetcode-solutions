@@ -861,6 +861,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | October 29, 2026 | [3841](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3841) | 🔴 Hard |
 | October 30, 2026 | [3970](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3970) | 🟡 Medium |
 | October 31, 2026 | [3665](https://leetcode.com/problems/twisted-mirror-path-count) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3665) | 🟡 Medium |
+| November 1, 2026 | [453](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/453) | 🟡 Medium |
 
 # Join our discussion!
 
