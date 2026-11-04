@@ -864,6 +864,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 1, 2026 | [453](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/453) | 🟡 Medium |
 | November 2, 2026 | [462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/462) | 🟡 Medium |
 | November 3, 2026 | [3736](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3736) | 🟢 Easy |
+| November 4, 2026 | [3505](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3505) | 🔴 Hard |
 
 # Join our discussion!
 
