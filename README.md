@@ -867,6 +867,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 4, 2026 | [3505](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3505) | 🔴 Hard |
 | November 5, 2026 | [1385](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1385) | 🟢 Easy |
 | November 6, 2026 | [2747](https://leetcode.com/problems/count-zero-request-servers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2747) | 🟡 Medium |
+| November 7, 2026 | [1882](https://leetcode.com/problems/process-tasks-using-servers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1882) | 🟡 Medium |
 
 # Join our discussion!
 
