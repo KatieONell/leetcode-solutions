@@ -875,6 +875,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 12, 2026 | [3105](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3105) | 🟢 Easy |
 | November 13, 2026 | [3420](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3420) | 🔴 Hard |
 | November 14, 2026 | [3364](https://leetcode.com/problems/minimum-positive-sum-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3364) | 🟢 Easy |
+| November 15, 2026 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1524) | 🟡 Medium |
 
 # Join our discussion!
 
