@@ -877,6 +877,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 14, 2026 | [3364](https://leetcode.com/problems/minimum-positive-sum-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3364) | 🟢 Easy |
 | November 15, 2026 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1524) | 🟡 Medium |
 | November 16, 2026 | [2243](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2243) | 🟢 Easy |
+| November 17, 2026 | [2911](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2911) | 🔴 Hard |
 
 # Join our discussion!
 
