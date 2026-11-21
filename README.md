@@ -881,6 +881,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 18, 2026 | [2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2914) | 🟡 Medium |
 | November 19, 2026 | [2567](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2567) | 🟡 Medium |
 | November 20, 2026 | [3041](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3041) | 🔴 Hard |
+| November 21, 2026 | [3331](https://leetcode.com/problems/find-subtree-sizes-after-changes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3331) | 🟡 Medium |
 
 # Join our discussion!
 
