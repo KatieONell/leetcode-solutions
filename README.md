@@ -883,6 +883,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 20, 2026 | [3041](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3041) | 🔴 Hard |
 | November 21, 2026 | [3331](https://leetcode.com/problems/find-subtree-sizes-after-changes) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3331) | 🟡 Medium |
 | November 22, 2026 | [2124](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/2124) | 🟢 Easy |
+| November 23, 2026 | [1352](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1352) | 🟡 Medium |
 
 # Join our discussion!
 
