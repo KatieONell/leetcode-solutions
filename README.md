@@ -886,6 +886,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 23, 2026 | [1352](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/1352) | 🟡 Medium |
 | November 24, 2026 | [3411](https://leetcode.com/problems/maximum-subarray-with-equal-products) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3411) | 🟢 Easy |
 | November 25, 2026 | [3934](https://leetcode.com/problems/smallest-unique-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3934) | 🔴 Hard |
+| November 26, 2026 | [3360](https://leetcode.com/problems/stone-removal-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3360) | 🟢 Easy |
 
 # Join our discussion!
 
