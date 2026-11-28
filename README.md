@@ -888,6 +888,7 @@ Each day (ideally) we'll attempt the daily [leetcode](https://leetcode.com) prob
 | November 25, 2026 | [3934](https://leetcode.com/problems/smallest-unique-subarray) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3934) | 🔴 Hard |
 | November 26, 2026 | [3360](https://leetcode.com/problems/stone-removal-game) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3360) | 🟢 Easy |
 | November 27, 2026 | [3946](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3946) | 🟡 Medium |
+| November 28, 2026 | [3947](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | [Click here](https://github.com/ContextLab/leetcode-solutions/tree/main/problems/3947) | 🟡 Medium |
 
 # Join our discussion!
 
